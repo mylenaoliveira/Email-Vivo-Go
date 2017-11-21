@@ -1,0 +1,35 @@
+
+a {
+  color: #2199e8;
+  text-decoration: none; }
+a:hover {
+  color: #2199e8; }
+a:active {
+  color: #2199e8; }
+a:visited {
+  color: #2199e8; }
+a img {
+  border: none; }
+
+a {
+  color: #0a0a0a;
+  font-family: $body-font-family;
+  font-weight: $global-font-weight;
+  text-align: left;
+  line-height: $global-line-height; }
+
+  a.detalhe {
+    display: block;
+    cursor: pointer;
+    font-size: 11px;
+    font-weight: 100;
+    color: #3345C6;
+    text-align: right !important;
+    margin-bottom: 5px; }
+
+  a.acesso {
+    background: $primary-color;
+    font-weight: bold;
+    color: white;
+    padding: 7px;
+    border-radius: 5px !important; }

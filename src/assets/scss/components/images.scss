@@ -1,0 +1,31 @@
+
+img {
+  outline: none;
+  text-decoration: none;
+  -ms-interpolation-mode: bicubic;
+  width: auto;
+  max-width: 100%;
+  clear: both;
+  display: block; }
+
+  img.logo {
+    width: 146px !important;
+    height: 55px !important;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    margin-top: 20px;
+  }
+
+  img.movel {
+    width: 100%;
+    max-width: 100%; }
+
+    @media only screen and (min-width: 768px) {
+      .movel {
+        display: block; } }
+
+    @media only screen and (min-width: 300px) and (max-width: 767px) {
+      .movel {
+        display: block; } }
