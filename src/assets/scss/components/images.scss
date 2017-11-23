@@ -14,8 +14,8 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: 20px;
-    margin-top: 20px;
+    margin-bottom: 5px;
+    margin-top: 5px;
   }
 
   img.movel {
@@ -29,3 +29,13 @@ img {
     @media only screen and (min-width: 300px) and (max-width: 767px) {
       .movel {
         display: block; } }
+
+  img.logo-syscor {
+  width: 350px !important;
+  height: 55px !important;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 5px;
+  margin-top: 5px;
+  }

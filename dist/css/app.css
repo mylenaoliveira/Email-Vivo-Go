@@ -348,7 +348,7 @@ table.button {
       display: inline-block;
       padding: 5px 5px 5px 5px;
       border: 0 solid #660099;
-      border-radius: 5px; }
+      border-radius: 10px; }
 
 table.button:hover table tr td a,
 table.button:active table tr td a,
@@ -549,6 +549,14 @@ p.final {
   font-weight: bold;
   color: #660099; }
 
+p.titulo-medio {
+  font-size: 40px;
+  font-weight: bold;
+  color: #ffffff;
+  position: absolute;
+  top: 150px;
+  left: 10px; }
+
 img {
   outline: none;
   text-decoration: none;
@@ -564,8 +572,8 @@ img.logo {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  margin-bottom: 20px;
-  margin-top: 20px; }
+  margin-bottom: 5px;
+  margin-top: 5px; }
 
 img.movel {
   width: 100%;
@@ -578,6 +586,15 @@ img.movel {
 @media only screen and (min-width: 300px) and (max-width: 767px) {
   .movel {
     display: block; } }
+
+img.logo-syscor {
+  width: 350px !important;
+  height: 55px !important;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 5px;
+  margin-top: 5px; }
 
 .inicio {
   position: relative;

@@ -43,3 +43,17 @@ p {
 .destaque {
   font-weight: bold;
   color: #660099; }
+
+  p.titulo-medio {
+    font-size: 40px;
+    font-weight: bold;
+    color: #ffffff;
+    position: absolute;
+    top: 150px;
+    left: 10px; }
+
+  @media only screen and (max-width: #{$global-breakpoint}) {
+    p.titulo-medoi {
+      top: 150px !important;
+      left: 30px !important;
+      font-size: 20px !important; } }
