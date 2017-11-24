@@ -574,7 +574,6 @@ img {
 
 img.logo {
   width: 146px !important;
-  height: 55px !important;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -594,13 +593,12 @@ img.movel {
     display: block; } }
 
 img.logo-vivo-go {
-  width: 350px !important;
-  height: 55px !important;
+  height: 45px !important;
   display: block;
   margin-left: auto;
   margin-right: auto;
-  margin-bottom: 5px;
-  margin-top: 5px; }
+  margin-bottom: 11px;
+  margin-top: 11px; }
 
 .inicio {
   position: relative;
