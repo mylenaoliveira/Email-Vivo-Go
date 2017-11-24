@@ -110,14 +110,8 @@ th.large-4 {
   padding-left: 8px;
   padding-right: 8px; }
 
-th.large-4.first {
-  padding-left: 16px; }
-
 th.large-4.last {
   padding-right: 16px; }
-
-th.large-4 center {
-  min-width: 145.33333px; }
 
 th.large-5 {
   width: 225.66667px;
@@ -175,9 +169,6 @@ th.large-8 {
 th.large-8.first {
   padding-left: 16px; }
 
-th.large-8.last {
-  padding-right: 16px; }
-
 th.large-12 {
   width: 564px;
   padding-left: 8px;
@@ -209,9 +200,7 @@ th.expander {
 
 table.text-center,
 h1.text-center,
-h3.text-center,
 h4.text-center,
-h5.text-center,
 p.text-center {
   text-align: center; }
 
@@ -593,7 +582,7 @@ img.movel {
     display: block; } }
 
 img.logo-vivo-go {
-  height: 45px !important;
+  height: 38px !important;
   display: block;
   margin-left: auto;
   margin-right: auto;
