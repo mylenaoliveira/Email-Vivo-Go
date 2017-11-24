@@ -557,6 +557,12 @@ p.titulo-medio {
   top: 150px;
   left: 10px; }
 
+@media only screen and (max-width: 596px) {
+  p.titulo-medio {
+    top: 150px !important;
+    left: 30px !important;
+    font-size: 20px !important; } }
+
 img {
   outline: none;
   text-decoration: none;
@@ -587,7 +593,7 @@ img.movel {
   .movel {
     display: block; } }
 
-img.logo-syscor {
+img.logo-vivo-go {
   width: 350px !important;
   height: 55px !important;
   display: block;
