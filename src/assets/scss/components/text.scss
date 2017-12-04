@@ -2,12 +2,18 @@
 p {
   margin-bottom: 5px!important;
   font-family: $body-font-family;
-  font-size: $global-font-size; }
+  font-size: $global-font-size;
+  color: #333333; }
 
   p.titulo {
-    font-size: $h6-font-size;
+    font-size: $h1-font-size;
     font-weight: bold;
-    margin-top: 30px; }
+    margin-top: 30px;
+    color: #ffffff;
+    position: absolute;
+    top: 150px;
+    left: 10px;
+    text-transform: uppercase; }
 
   p.vivo {
     font-size: $h6-font-size;
@@ -17,19 +23,16 @@ p {
     margin-bottom: 20px; }
 
   p.rodape {
-    font-size: 0.8rem;
+    font-size: 12px;
     color: #777777;
     margin-left: 20px;
     vertical-align: center;
-    width: 580px}
+    width: 600px; }
 
-  p.titulo-grande {
-    font-size: 50px;
-    font-weight: bold;
-    color: #ffffff;
-    position: absolute;
-    top: 150px;
-    left: 10px; }
+  p.titulo-nome {
+    font-size: $h5-font-size;
+    color: #333333;
+    font-weight: bold; }
 
   @media only screen and (max-width: #{$global-breakpoint}) {
     p.titulo-grande {
@@ -37,20 +40,18 @@ p {
       left: 30px !important;
       font-size: 40px !important; } }
 
+  p.link-atendimento {
+    margin-top: 5px; }
+
   p.final {
+    font-size: 16px;
     margin-top: 15px; }
+
 
 .destaque {
   font-weight: bold;
-  color: #660099; }
-
-  p.titulo-medio {
-    font-size: 40px;
-    font-weight: bold;
-    color: #ffffff;
-    position: absolute;
-    top: 150px;
-    left: 10px; }
+  color: #333333;
+  text-transform: uppercase; }
 
   @media only screen and (max-width: #{$global-breakpoint}) {
     p.titulo-medio {
