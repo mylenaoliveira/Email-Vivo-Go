@@ -21,17 +21,17 @@ a {
     display: block;
     cursor: pointer;
     font-size: 14px;
-    font-weight: 100;
+    font-weight: 400;
     color: #3871e0;
     text-align: right !important;
-    margin-bottom: 5px; }
+    font-family: $body-font-family; }
 
   a.acesso {
     background: $primary-color;
     font-weight: 200;
     color: white;
-    padding: 7px;
-    border-radius: 5px !important;
+    padding: 7px 10px 7px 10px;
+    border-radius: 8px !important;
     text-transform: uppercase;
     margin-bottom: 35px; }
 

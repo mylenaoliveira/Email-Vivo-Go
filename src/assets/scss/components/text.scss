@@ -1,4 +1,3 @@
-
 p {
   margin-bottom: 5px!important;
   font-family: $body-font-family;
@@ -13,14 +12,16 @@ p {
   position: absolute;
   top: 150px;
   left: 10px;
-  text-transform: uppercase; }
+  text-transform: uppercase;
+  font-family: $title-font-family; }
 
 .vivo {
   font-size: $h6-font-size;
   font-weight: bold;
   color: #660099;
   justify-content: center;
-  margin-bottom: 20px; }
+  margin-bottom: 20px;
+  font-family: $title-font-family;}
 
 .rodape {
   font-size: 12px;
@@ -28,13 +29,15 @@ p {
   margin-left: 0;
   margin-bottom: 1px;
   vertical-align: center;
-  width: 600px; }
+  width: 600px;
+  font-family: $body-font-family; }
 
 .titulo-nome {
   font-size: $h5-font-size;
   color: #333333;
   font-weight: bold;
-  margin-bottom: 35px}
+  margin-bottom: 35px;
+  font-family: $body-font-family; }
 
   @media only screen and (max-width: #{$global-breakpoint}) {
     p.titulo-grande {
@@ -48,12 +51,14 @@ p {
 .final {
   font-size: 16px;
   margin-top: 15px;
-  vertical-align: center; }
+  vertical-align: center;
+  font-family: $body-font-family; }
 
 .destaque {
   font-weight: bold;
   color: #333333;
-  text-transform: uppercase; }
+  text-transform: uppercase;
+  font-family: $body-font-family; }
 
   @media only screen and (max-width: #{$global-breakpoint}) {
     p.titulo-medio {
@@ -63,15 +68,37 @@ p {
 
 .corpo-texto {
   font-size: 20px;
-  color: #333333; }
+  color: #333333;
+  font-family: $body-font-family; }
 
 .atencao {
   font-size: 25px;
   font-weight: bold;
-  padding-right: 124px;}
+  margin-right: 124px;
+  font-family: $title-font-family; }
 
 .chamada-texto {
   font-size: 20px;
   color: #333333;
-  margin-bottom: 35px; }
+  margin-bottom: 35px;
+  font-family: $body-font-family; }
 
+.titulo-container {
+  font-weight: bold;
+  font-size: 25px;
+  text-transform: uppercase;
+  color: #333333;
+  font-family: $body-font-family; }
+
+.texto-container {
+  margin-right: 327px;
+  font-size: 18px;
+  color: #333333;
+  font-family: $body-font-family; }
+
+.titulo-status {
+  font-family: $title-font-family;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: $h6-font-size;
+  color: $primary-color; }
