@@ -2,19 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d694172a-cb54-4517-b9f5-0399992457f6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/scss/components/list.scss" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/assets/img/NF-e1.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/assets/img/NF-e2confirmação.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/assets/img/NF-e3impressão.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/assets/img/NF-e4cancelamento.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/assets/img/NF-e5erro.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/assets/img/NF-e6atendimento.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/assets/img/NFC-e1.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/assets/img/NFC-e2confirmação.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/assets/img/NFC-e3impressão.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/assets/img/NFC-e4cancelamento.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/assets/img/NFC-e5erro.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/assets/img/NFC-e6atendimento.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/assets/img/atenção.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/assets/img/emissãonota.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/assets/img/enviar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/assets/img/formulario-solicitacao.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/assets/img/instalacao.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/assets/img/movel.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/assets/img/solicitacaoaberto.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/assets/img/solicitacaoaberto1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/assets/img/vivo-go.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/assets/img/vivo-go.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/assets/img/vivo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/assets/img/vivo.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/basic.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/css/app.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/drip.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/css/app.css" afterPath="$PROJECT_DIR$/dist/css/app.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/drip.html" afterPath="$PROJECT_DIR$/dist/drip.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/emissão-nfce.html" afterPath="$PROJECT_DIR$/dist/emissão-nfce.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/hero.html" afterPath="$PROJECT_DIR$/dist/hero.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/solicitacao-aberto.html" afterPath="$PROJECT_DIR$/dist/solicitacao-aberto.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/scss/_settings.scss" afterPath="$PROJECT_DIR$/src/assets/scss/_settings.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/scss/app.scss" afterPath="$PROJECT_DIR$/src/assets/scss/app.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/scss/components/link.scss" afterPath="$PROJECT_DIR$/src/assets/scss/components/link.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/scss/components/text.scss" afterPath="$PROJECT_DIR$/src/assets/scss/components/text.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/emissão-nfce.html" afterPath="$PROJECT_DIR$/src/pages/emissão-nfce.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/solicitacao-aberto.html" afterPath="$PROJECT_DIR$/src/pages/solicitacao-aberto.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/sidebar.html" afterPath="$PROJECT_DIR$/dist/sidebar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/scss/components/list.scss" afterPath="$PROJECT_DIR$/src/assets/scss/components/list.scss" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -100,21 +117,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="list.scss" pinned="false" current-in-tab="false">
+      <file leaf-file-name="list.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/assets/scss/components/list.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="357">
+              <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.scss" pinned="false" current-in-tab="true">
+      <file leaf-file-name="app.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/assets/scss/app.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="189">
-              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -133,8 +150,8 @@
       <file leaf-file-name="images.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/assets/scss/components/images.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="591">
-              <caret line="42" column="23" lean-forward="false" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
+            <state relative-caret-position="483">
+              <caret line="23" column="47" lean-forward="true" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
               <folding />
             </state>
           </provider>
@@ -217,8 +234,8 @@
         <option value="$PROJECT_DIR$/src/assets/scss/_settings.scss" />
         <option value="$PROJECT_DIR$/src/assets/scss/components/text.scss" />
         <option value="$PROJECT_DIR$/src/pages/emissão-nfce.html" />
-        <option value="$PROJECT_DIR$/src/assets/scss/components/list.scss" />
         <option value="$PROJECT_DIR$/src/assets/scss/app.scss" />
+        <option value="$PROJECT_DIR$/src/assets/scss/components/list.scss" />
       </list>
     </option>
   </component>
@@ -298,21 +315,6 @@
               <item name="Email-Vivo-Go" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Email-Vivo-Go" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Email-Vivo-Go" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="scss" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Email-Vivo-Go" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Email-Vivo-Go" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="scss" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Email-Vivo-Go" type="b2602c69:ProjectViewProjectNode" />
@@ -485,12 +487,12 @@
       <workItem from="1512396487828" duration="2018000" />
       <workItem from="1512406570929" duration="8780000" />
       <workItem from="1512493904857" duration="7491000" />
-      <workItem from="1512561468899" duration="16497000" />
+      <workItem from="1512561468899" duration="17566000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100644000" />
+    <option name="totallyTimeSpent" value="101713000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -811,22 +813,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/scss/components/images.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="591">
-          <caret line="42" column="23" lean-forward="false" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/scss/components/container.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="5" lean-forward="false" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/assets/scss/_settings.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="188">
@@ -878,10 +864,7 @@
         <state relative-caret-position="83">
           <caret line="128" column="62" lean-forward="false" selection-start-line="128" selection-start-column="62" selection-end-line="128" selection-end-column="62" />
           <folding>
-            <element signature="n#style#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1512587384200" expanded="false" signature="10823:10855" ph="..." />
-            <marker date="1512587384200" expanded="false" signature="11136:11168" ph="..." />
-            <marker date="1512587384200" expanded="false" signature="12029:12061" ph="..." />
+            <element signature="n#style#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#td#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -894,18 +877,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/scss/components/list.scss">
+    <entry file="file://$PROJECT_DIR$/src/assets/scss/app.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="189">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/scss/app.scss">
+    <entry file="file://$PROJECT_DIR$/src/assets/scss/components/images.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="483">
+          <caret line="23" column="47" lean-forward="true" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/scss/components/container.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="5" lean-forward="false" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/scss/components/list.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
           <folding />
         </state>
       </provider>
