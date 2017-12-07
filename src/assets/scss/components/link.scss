@@ -26,19 +26,39 @@ a {
     text-align: right !important;
     font-family: $body-font-family; }
 
-  a.acesso {
-    background: $primary-color;
-    font-weight: 400;
-    color: white;
-    padding: 10px 20px 10px 20px;
-    border-radius: $global-radius !important;
-    text-transform: uppercase;
-    margin-bottom: 35px; }
+a.acesso {
+  background: #660099;
+  font-weight: 300;
+  color: white;
+  padding: 10px 20px 10px 20px;
+  border-radius: $global-radius !important;
+  text-transform: uppercase;
+  margin-bottom: 35px; }
+
+a.acesso-doc {
+  background: #660099;
+  font-weight: 300;
+  color: white;
+  padding: 10px 20px 10px 20px;
+  border-radius: $global-radius !important;
+  text-transform: uppercase;
+  margin-bottom: 35px !important;
+  margin-top: 35px !important; }
+
+a.acesso-manual {
+  background: #660099;
+  font-weight: 300;
+  color: white;
+  padding: 10px 20px 10px 20px;
+  border-radius: $global-radius !important;
+  text-transform: uppercase;
+  margin-bottom: 35px !important;
+  margin-top: 35px !important; }
 
   a.atendimento {
     cursor: pointer;
-    font-size: 18px;
-    font-weight: 100;
+    font-size: 20px;
+    font-weight: 400;
     color: #3871E0;
     margin-bottom: 15px;
   }

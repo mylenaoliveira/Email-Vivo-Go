@@ -1,0 +1,307 @@
+.circle {
+  background-color: #609;
+  border: none;
+  height: 15px;
+  width: 15px;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  display: inline-block;
+  margin-right: 10px; }
+
+/*etapa 1 análise*/
+.progress-indicator-analise {
+  list-style: none;
+  width: $progress-indicator-width;
+  margin-left: 0 auto;
+  margin-right: 0 auto;
+  margin-bottom: 70px !important;
+  margin-top: 30px;
+  padding: 0;
+  display: table;
+  table-layout: fixed;
+
+  > li {
+    position: relative;
+    display: table-cell;
+    text-align: center;
+    font-size: 0.8em;
+
+    span {
+      position: absolute;
+      color: $light-gray;
+      transform: translateX(-50%);
+      font-weight: 600;
+      font-size: rem-calc(14);
+      letter-spacing: 0.05px;
+      text-transform: uppercase;
+    }
+
+    &::before {
+      content: attr(data-step);
+      display: block;
+      margin: 0 auto;
+      background: $white;
+      width: $progress-indicator-step-size;
+      height: $progress-indicator-step-size;
+      text-align: center;
+      margin-bottom: 0.25em;
+      line-height: $progress-indicator-step-size;
+      border-radius: 100%;
+      position: relative;
+      z-index: 1000;
+      border: 2px solid #DEE3E6;
+    }
+
+    &:first-child:before {
+      border: none;
+    }
+
+    &::after {
+      content: '';
+      position: absolute;
+      display: block;
+      background: $progress-indicator-incomplete;
+      width: 100%;
+      top: 50%; // height of bar
+      transform: translateY(-100%);
+      left: 50%;
+      margin-left: 1.5em\9;
+      z-index: 0;
+      height: 0.15em;
+    }
+
+    &:last-child:after {
+        display: none;
+      }
+
+    &.is-complete {
+      color: $progress-indicator-complete;
+
+      &::before,
+      &::after {
+        color: $white;
+        background: $progress-indicator-complete;
+      }
+
+      span {
+        color: $progress-indicator-complete;
+      }
+    }
+
+    &.is-current {
+      color: $progress-indicator-current;
+
+      &::before {
+        color: $white;
+        background: $progress-indicator-current;
+      }
+
+      span {
+        color: $progress-indicator-current;
+      }
+    }
+  }
+}
+
+/*etapa 2 desenvolvimento*/
+.progress-indicator-desenvolvimento {
+  list-style: none;
+  width: $progress-indicator-width;
+  margin-left: 0 auto;
+  margin-right: 0 auto;
+  margin-bottom: 70px !important;
+  margin-top: 30px;
+  padding: 0;
+  display: table;
+  table-layout: fixed;
+
+  > li {
+    position: relative;
+    display: table-cell;
+    text-align: center;
+    font-size: 0.8em;
+
+    span {
+      position: absolute;
+      color: $light-gray;
+      transform: translateX(-50%);
+      font-weight: 600;
+      font-size: rem-calc(14);
+      letter-spacing: 0.05px;
+      text-transform: uppercase;
+    }
+
+    &::before {
+      content: attr(data-step);
+      display: block;
+      margin: 0 auto;
+      background: $white;
+      width: $progress-indicator-step-size;
+      height: $progress-indicator-step-size;
+      text-align: center;
+      margin-bottom: 0.25em;
+      line-height: $progress-indicator-step-size;
+      border-radius: 100%;
+      position: relative;
+      z-index: 1000;
+      border: 2px solid #DEE3E6;
+    }
+
+    &:first-child:before {
+      border: none;
+    }
+
+    &:nth-child(3n+2):before {
+      border: none;
+    }
+
+    &::after {
+      content: '';
+      position: absolute;
+      display: block;
+      background: $progress-indicator-incomplete;
+      width: 100%;
+      top: 50%; // height of bar
+      transform: translateY(-100%);
+      left: 50%;
+      margin-left: 1.5em\9;
+      z-index: 0;
+      height: 0.15em;
+    }
+
+    &:last-child:after {
+      display: none;
+    }
+
+    &.is-complete {
+      color: $progress-indicator-complete;
+
+      &::before {
+        border: 2px solid $progress-indicator-complete;
+        background: $white; }
+
+      &::after {
+        color: $white; }
+
+      span {
+        color: $progress-indicator-incomplete;
+      }
+    }
+
+    &.is-current {
+      color: $progress-indicator-current;
+
+      &::before {
+        color: $white;
+        background: $progress-indicator-current;
+      }
+
+      span {
+        color: $progress-indicator-current;
+      }
+    }
+  }
+}
+
+/*etapa 3 aprovada para desenvolvimento*/
+.progress-indicator-apvdev {
+  list-style: none;
+  width: $progress-indicator-width;
+  margin-left: 0 auto;
+  margin-right: 0 auto;
+  margin-bottom: 70px !important;
+  margin-top: 30px;
+  padding: 0;
+  display: table;
+  table-layout: fixed;
+
+  > li {
+    position: relative;
+    display: table-cell;
+    text-align: center;
+    font-size: 0.8em;
+
+    span {
+      position: absolute;
+      color: $light-gray;
+      transform: translateX(-50%);
+      font-weight: 600;
+      font-size: rem-calc(14);
+      letter-spacing: 0.05px;
+      text-transform: uppercase;
+    }
+
+    &::before {
+      content: attr(data-step);
+      display: block;
+      margin: 0 auto;
+      background: $white;
+      width: $progress-indicator-step-size;
+      height: $progress-indicator-step-size;
+      text-align: center;
+      margin-bottom: 0.25em;
+      line-height: $progress-indicator-step-size;
+      border-radius: 100%;
+      position: relative;
+      z-index: 1000;
+      border: 2px solid #DEE3E6;
+    }
+
+    &:first-child:before {
+      border: none;
+    }
+
+    &:nth-child(3n+2):before {
+      border: none;
+    }
+
+    &::after {
+      content: '';
+      position: absolute;
+      display: block;
+      background: $progress-indicator-incomplete;
+      width: 100%;
+      top: 50%; // height of bar
+      transform: translateY(-100%);
+      left: 50%;
+      margin-left: 1.5em\9;
+      z-index: 0;
+      height: 0.15em;
+    }
+
+    &:last-child:after {
+      display: none;
+    }
+
+    &.is-complete {
+      color: $progress-indicator-complete;
+
+      &::before {
+        border: 2px solid $progress-indicator-complete;
+        background: $white; }
+
+      &::after {
+        color: $white; }
+
+      span {
+        color: $progress-indicator-incomplete;
+      }
+    }
+
+    &.is-current {
+      color: $progress-indicator-current;
+
+      &::before {
+        color: $white;
+        background: $progress-indicator-current;
+      }
+
+      span {
+        color: $progress-indicator-current;
+      }
+    }
+  }
+}
+
+
