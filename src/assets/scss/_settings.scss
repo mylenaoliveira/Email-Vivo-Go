@@ -45,6 +45,8 @@ $global-breakpoint: $global-width + $global-gutter;
 $grid-column-count: 12;
 $column-padding-bottom: $global-padding;
 $container-radius: 0;
+/*$container-margin-left: 50px;
+$container-margin-right: 50px;*/
 
 // 3. Block Grid
 // -------------
@@ -124,12 +126,9 @@ $button-rounded: $global-rounded;
 
 $callout-background: $white;
 $callout-background-fade: 85%;
-$callout-padding: 10px;
-$callout-border-radius: 10px;
+$callout-padding: 15px;
 $callout-margin-bottom: 0;
 $callout-margin-top: 0;
-$callout-margin-left: 50px;
-$callout-margin-right: 50px;
 $callout-border: 1px solid $medium-gray;
 $callout-border-secondary: 1px solid darken($secondary-color, 20%);
 $callout-border-success: 1px solid darken($success-color, 20%);

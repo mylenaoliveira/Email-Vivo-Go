@@ -4,7 +4,8 @@
 
         <container class="center" align="center" valign="top">
 
-            <container class="spacer float-center" height="16px" style="font-size:16px;line-height:16px;">&#xA0; </container>
+            <container class="spacer float-center" height="16px" style="font-size:16px;line-height:16px;">&#xA0;
+            </container>
             <container align="center" class="container float-center">
 
                 <!-- cabeçalho logo -->
@@ -22,23 +23,42 @@
                 <!-- cabeçalho imagem -->
                 <callout class="box-conteudo">
                     <container class="inicio">
-                        <img src="./../assets/img/solicitacaoaberto1.png" class="movel" alt="Solicitação em aberto">
+                        <!--etapas-->
+                        <ol class="progress-indicator-recusada">
+                            <li class="is-complete" data-step="">
+                                <span>ANÁLISE</span>
+                            </li>
+                            <li class="is-complete" data-step="">
+                                <span>DESENVOLVIMENTO</span>
+                            </li>
+                            <li class="is-current" data-step="">
+                                <i class="fa fa-exclamation-triangle"></i>
+                            </li>
+                            <li class="" data-step="">
+                                <span>CONCLUÍDO</span>
+                            </li>
+                        </ol>
                     </container>
 
                     <!-- corpo do texto -->
                     <p class="titulo-status text-center" align="middle">
-                        SOLICITAÇÃO RECUSADA PARA DESENVOLVIMENTO
+                        SOLICITAÇÃO RECUSADA <br>
+                        PARA DESENVOLVIMENTO
                     </p>
 
                     <container class="conteudo">
                         <p class="titulo-nome">Olá André,</p>
 
-                        <p class="corpo-texto"> Informamos que sua solicitação encaminhada pelo formulário de solicitação através do protocolo
-                            <span class="destaque"> SUP- **** </span> pnão passou pela análise técnica vindo a ser recusada para desenvolvimento. </p>
+                        <p class="corpo-texto"> Informamos que sua solicitação encaminhada pelo formulário de
+                            solicitação através do protocolo
+                            <span class="destaque"> SUP- **** </span> pnão passou pela análise técnica vindo a ser
+                            recusada para desenvolvimento. </p>
 
-                        <p class="corpo-texto"> Será necessário aguardar o desenvolvimento e testes da tarefa para que seja implementada e liberada no sistema. </p>
+                        <p class="corpo-texto"> Será necessário aguardar o desenvolvimento e testes da tarefa para que
+                            seja implementada e liberada no sistema. </p>
 
-                        <p class="corpo-texto" id="before-final"> Assim que finalizado, entraremos em contato informando sobre sua publicação. </p>
+                        <p class="corpo-texto" id="before-final"> Assim que finalizado, entraremos em contato informando
+                            sobre sua publicação. </p>
 
                         <p class="final text-center" align="middle"> Qualquer dúvida estamos à disposição. </p>
                     </container>
@@ -52,10 +72,12 @@
             <spacer size="30"></spacer>
 
             <container class="rodape-div">
-                <p class="rodape text-center" align="middle"> Telefone: <strong> (67) 3352-3456 / (67) 99614-1046 / (67) 99972-3456 / (11) 99558-1504 </strong> </p>
-                <p class="rodape text-center" align="middle"> E-mail:  <strong> contato@before.com.br </strong> </p>
-                <p class="rodape text-center" align="middle"> Rua Tapajós, 527 - Bairro Vila Rica -  Campo Grande/MS </p>
-                <p class="rodape text-center" align="middle"> Copyright © 2017 Vivo Go. Todos os direitos reservados. </p>
+                <p class="rodape text-center" align="middle"> Telefone: <strong> (67) 3352-3456 / (67) 99614-1046 / (67)
+                    99972-3456 / (11) 99558-1504 </strong></p>
+                <p class="rodape text-center" align="middle"> E-mail: <strong> contato@before.com.br </strong></p>
+                <p class="rodape text-center" align="middle"> Rua Tapajós, 527 - Bairro Vila Rica - Campo Grande/MS </p>
+                <p class="rodape text-center" align="middle"> Copyright © 2017 Vivo Go. Todos os direitos
+                    reservados. </p>
             </container>
 
             <spacer size="30"></spacer>
