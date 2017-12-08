@@ -1,12 +1,15 @@
 
 .inicio {
   position: relative;
-  text-align: right; }
+  text-align: right;
+  background-image: url("/dist/assets/img/formulario-solicitacao.png") bottom center no-repeat;
+  width: 100%;}
 
 .conteudo {
   line-height: 2;
   margin-left: 20px;
-  border: 1px;}
+  border: 1px;
+  padding:15px !important;}
 
 .rodape-div {
   float: center;

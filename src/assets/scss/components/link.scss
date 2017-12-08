@@ -23,6 +23,7 @@ a {
     font-size: 14px;
     font-weight: 400;
     color: #3871e0;
+    margin-right: 40px;
     text-align: right !important;
     font-family: $body-font-family; }
 
@@ -33,27 +34,33 @@ a.acesso {
   padding: 10px 20px 10px 20px;
   border-radius: $global-radius !important;
   text-transform: uppercase;
-  margin-bottom: 35px; }
+  margin-bottom: 35px;
+  margin-left: 150px !important;
+  margin-right: 150px !important;}
 
 a.acesso-doc {
   background: #660099;
   font-weight: 300;
-  color: white;
-  padding: 10px 20px 10px 20px;
+  color: $white;
+  padding: 10px 20px 10px 25px;
   border-radius: $global-radius !important;
   text-transform: uppercase;
   margin-bottom: 35px !important;
-  margin-top: 35px !important; }
+  margin-top: 35px !important;
+  margin-left: 150px !important;
+  margin-right: 150px !important; }
 
 a.acesso-manual {
   background: #660099;
   font-weight: 300;
-  color: white;
+  color: $white;
   padding: 10px 20px 10px 20px;
   border-radius: $global-radius !important;
   text-transform: uppercase;
   margin-bottom: 35px !important;
-  margin-top: 35px !important; }
+  margin-top: 35px !important;
+  margin-left: 150px !important;
+  margin-right: 150px !important;}
 
   a.atendimento {
     cursor: pointer;

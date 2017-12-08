@@ -6,6 +6,29 @@
   margin-top: 5px;
 }
 
+.fa-download {
+  color: $white;
+  width: 1rem; // makes the width of icon labels equal
+  position: relative !important;
+  margin-top: 5px;
+  transform: translateX(-30%);
+}
+
+.fa-book {
+  color: $white;
+  width: 1rem; // makes the width of icon labels equal
+  position: relative !important;
+  margin-top: 5px;
+  transform: translateX(-30%);
+}
+
+#aviso {
+  color: $alert-color;
+  font-size: 100px; // makes the width of icon labels equal
+  position: absolute;
+  transform: translateX(2%);
+}
+
 /*etapa 1 análise*/
 .progress-indicator-analise {
   list-style: none;
