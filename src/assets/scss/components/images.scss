@@ -18,8 +18,10 @@ img {
   }
 
   img.movel {
-    width: 100%;
-    max-width: 100%; }
+    width: auto;
+    min-width: 660px;
+    object-fit: contain;
+    /*transform: scale(1);*/ }
 
     @media only screen and (min-width: 768px) {
       .movel {

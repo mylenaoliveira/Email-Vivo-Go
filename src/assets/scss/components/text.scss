@@ -5,7 +5,7 @@ p {
   color: #333333; }
 
 .titulo {
-  font-size: 42px;
+  font-size: $h1-font-size;
   font-weight: bold;
   color: $white;
   position: absolute;
@@ -15,6 +15,7 @@ p {
   left: 40%;
   margin: 0!important;
   transform: translate(-50%, -50%);
+  line-height: 130%;
 }
 
 .vivo {
@@ -136,4 +137,8 @@ p {
 
 #solicitacao-titulo {
   left: 32%;
+}
+
+#reinstalacao {
+  left: 36%;
 }

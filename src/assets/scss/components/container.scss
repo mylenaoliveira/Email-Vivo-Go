@@ -1,14 +1,32 @@
-
-.inicio {
+table.inicio-instalacao {
   position: relative;
   text-align: right;
-  background-image: url("/dist/assets/img/formulario-solicitacao.png") bottom center no-repeat;
-  width: 100%;}
+  background-image: url('http://images.before.com.br/formulario-solicitacao.png');
+  width: 100%;
+  height: 300px;
+  margin: 0!important;}
+
+table.inicio-formulario {
+  position: relative;
+  text-align: right;
+  background-image: url('http://images.before.com.br/formulario-solicitacao.png') bottom center no-repeat;
+  width: 100%;
+  height: 300px;
+  margin: 0!important;}
+
+table.inicio-emissao {
+  position: relative;
+  text-align: right;
+  background-image: url('http://images.before.com.br/instalacao.png') bottom center no-repeat;
+  width: 100%;
+  height: 300px;
+  margin: 0!important;}
 
 .conteudo {
   line-height: 2;
   border: 1px;
-  padding:15px !important;}
+  margin-left: 30px !important;
+  margin-right: 30px !important; }
 
 .rodape-div {
   float: center;
