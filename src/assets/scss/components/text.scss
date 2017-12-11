@@ -5,15 +5,15 @@ p {
   color: #333333; }
 
 .titulo {
-  font-size: $h1-font-size;
+  font-size: 42px;
   font-weight: bold;
-  margin-top: 30px;
-  color: $primary-color;
+  color: $white;
   position: absolute;
   text-transform: uppercase;
   font-family: $title-font-family;
   top: 50%;
-  left: 50%;
+  left: 40%;
+  margin: 0!important;
   transform: translate(-50%, -50%);
 }
 
@@ -124,4 +124,16 @@ p {
 
 #caminho-nfc {
   color: $primary-color;
+}
+
+#emissao {
+  left: 26%;
+}
+
+#solicitacao {
+  margin-top: 25px;
+}
+
+#solicitacao-titulo {
+  left: 32%;
 }
