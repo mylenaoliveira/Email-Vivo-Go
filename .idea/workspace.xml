@@ -4,25 +4,10 @@
     <list default="true" id="d694172a-cb54-4517-b9f5-0399992457f6" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/css/app.css" afterPath="$PROJECT_DIR$/dist/css/app.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/emissão-nfce.html" afterPath="$PROJECT_DIR$/dist/emissão-nfce.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/emissão-nfe.html" afterPath="$PROJECT_DIR$/dist/emissão-nfe.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/formulario-solicitacao.html" afterPath="$PROJECT_DIR$/dist/formulario-solicitacao.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/reinstalacao.html" afterPath="$PROJECT_DIR$/dist/reinstalacao.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/solicitacao-aberto.html" afterPath="$PROJECT_DIR$/dist/solicitacao-aberto.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/scss/_settings.scss" afterPath="$PROJECT_DIR$/src/assets/scss/_settings.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/scss/app.scss" afterPath="$PROJECT_DIR$/src/assets/scss/app.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/scss/components/container.scss" afterPath="$PROJECT_DIR$/src/assets/scss/components/container.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/scss/components/form.scss" afterPath="$PROJECT_DIR$/src/assets/scss/components/form.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/scss/components/images.scss" afterPath="$PROJECT_DIR$/src/assets/scss/components/images.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/scss/components/link.scss" afterPath="$PROJECT_DIR$/src/assets/scss/components/link.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/scss/components/list.scss" afterPath="$PROJECT_DIR$/src/assets/scss/components/list.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/scss/components/text.scss" afterPath="$PROJECT_DIR$/src/assets/scss/components/text.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/scss/template/_template.scss" afterPath="$PROJECT_DIR$/src/assets/scss/template/_template.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/emissão-nfce.html" afterPath="$PROJECT_DIR$/src/pages/emissão-nfce.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/emissão-nfe.html" afterPath="$PROJECT_DIR$/src/pages/emissão-nfe.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/formulario-solicitacao.html" afterPath="$PROJECT_DIR$/src/pages/formulario-solicitacao.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/reinstalacao.html" afterPath="$PROJECT_DIR$/src/pages/reinstalacao.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/solicitacao-aberto.html" afterPath="$PROJECT_DIR$/src/pages/solicitacao-aberto.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -45,8 +30,8 @@
       <file leaf-file-name="emissão-nfe.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pages/emissão-nfe.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="155" column="62" lean-forward="false" selection-start-line="155" selection-start-column="62" selection-end-line="155" selection-end-column="62" />
+            <state relative-caret-position="198">
+              <caret line="154" column="41" lean-forward="true" selection-start-line="154" selection-start-column="41" selection-end-line="154" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -62,11 +47,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_template.scss" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_template.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/assets/scss/template/_template.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="84" column="1" lean-forward="true" selection-start-line="84" selection-start-column="1" selection-end-line="84" selection-end-column="1" />
+            <state relative-caret-position="363">
+              <caret line="83" column="23" lean-forward="false" selection-start-line="83" selection-start-column="23" selection-end-line="83" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -92,11 +77,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="container.scss" pinned="false" current-in-tab="false">
+      <file leaf-file-name="container.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/assets/scss/components/container.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="149">
-              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+            <state relative-caret-position="252">
+              <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -105,8 +90,8 @@
       <file leaf-file-name="text.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/assets/scss/components/text.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
-              <caret line="183" column="0" lean-forward="false" selection-start-line="183" selection-start-column="0" selection-end-line="183" selection-end-column="0" />
+            <state relative-caret-position="345">
+              <caret line="158" column="1" lean-forward="false" selection-start-line="158" selection-start-column="1" selection-end-line="158" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -125,7 +110,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>th.callout-inner</find>
       <find>container</find>
       <find>acesso-doc</find>
       <find>white</find>
@@ -153,8 +137,9 @@
       <find>content-</find>
       <find>texto-content</find>
       <find>before</find>
-      <find>texto-conten</find>
       <find>small-12 large-6 columns first</find>
+      <find>texto-conten</find>
+      <find>content-1</find>
     </findStrings>
     <dirStrings>
       <dir>C:\Users\Mylena\Documents\GitHub\Email-Vivo-Go\node_modules</dir>
@@ -207,11 +192,11 @@
         <option value="$PROJECT_DIR$/src/assets/scss/components/link.scss" />
         <option value="$PROJECT_DIR$/src/pages/emissão-nfce.html" />
         <option value="$PROJECT_DIR$/src/assets/scss/_settings.scss" />
-        <option value="$PROJECT_DIR$/src/assets/scss/components/container.scss" />
         <option value="$PROJECT_DIR$/src/assets/scss/components/images.scss" />
+        <option value="$PROJECT_DIR$/src/assets/scss/template/_template.scss" />
         <option value="$PROJECT_DIR$/src/assets/scss/components/text.scss" />
         <option value="$PROJECT_DIR$/src/pages/emissão-nfe.html" />
-        <option value="$PROJECT_DIR$/src/assets/scss/template/_template.scss" />
+        <option value="$PROJECT_DIR$/src/assets/scss/components/container.scss" />
       </list>
     </option>
   </component>
@@ -488,12 +473,12 @@
       <workItem from="1512648837919" duration="19795000" />
       <workItem from="1512730639569" duration="21597000" />
       <workItem from="1512994000787" duration="10454000" />
-      <workItem from="1513080253404" duration="21041000" />
+      <workItem from="1513080253404" duration="21406000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="174656000" />
+    <option name="totallyTimeSpent" value="175021000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -884,14 +869,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/scss/components/container.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/emissão-nfce.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
@@ -908,14 +885,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/scss/components/text.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="183" column="0" lean-forward="false" selection-start-line="183" selection-start-column="0" selection-end-line="183" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/inky/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="389">
@@ -924,18 +893,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/emissão-nfe.html">
+    <entry file="file://$PROJECT_DIR$/src/assets/scss/template/_template.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="155" column="62" lean-forward="false" selection-start-line="155" selection-start-column="62" selection-end-line="155" selection-end-column="62" />
+        <state relative-caret-position="363">
+          <caret line="83" column="23" lean-forward="false" selection-start-line="83" selection-start-column="23" selection-end-line="83" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/scss/template/_template.scss">
+    <entry file="file://$PROJECT_DIR$/src/assets/scss/components/text.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="84" column="1" lean-forward="true" selection-start-line="84" selection-start-column="1" selection-end-line="84" selection-end-column="1" />
+        <state relative-caret-position="345">
+          <caret line="158" column="1" lean-forward="false" selection-start-line="158" selection-start-column="1" selection-end-line="158" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/emissão-nfe.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="154" column="41" lean-forward="true" selection-start-line="154" selection-start-column="41" selection-end-line="154" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/scss/components/container.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
           <folding />
         </state>
       </provider>
