@@ -7,23 +7,23 @@
 }
 
 .fa-download {
-  color: $white;
-  width: 1rem; // makes the width of icon labels equal
   position: relative !important;
-  margin-top: 5px;
   transform: translateX(-30%);
+  color: $white;
+  margin-right: 5px;
+  width: 1rem; // makes the width of icon labels equal }
 }
 
 .fa-book {
-  color: $white;
-  width: 1rem; // makes the width of icon labels equal
   position: relative !important;
-  margin-top: 5px;
   transform: translateX(-30%);
+  color: $white;
+  margin-right: 5px;
+  width: 1rem; // makes the width of icon labels equal }
 }
 
-#aviso {
-  color: $alert-color;
+.aviso {
+  color: $primary-color;
   font-size: 100px; // makes the width of icon labels equal
   position: absolute;
   transform: translateX(2%);
@@ -86,14 +86,15 @@
       top: 50%; // height of bar
       transform: translateY(-100%);
       left: 50%;
-      margin-left: 1.5em\9;
+      margin-left: 1.5em \9
+    ;
       z-index: 0;
       height: 0.15em;
     }
 
     &:last-child:after {
-        display: none;
-      }
+      display: none;
+    }
 
     &.is-complete {
       color: $progress-indicator-complete;
@@ -185,7 +186,8 @@
       top: 50%; // height of bar
       transform: translateY(-100%);
       left: 50%;
-      margin-left: 1.5em\9;
+      margin-left: 1.5em \9
+    ;
       z-index: 0;
       height: 0.15em;
     }
@@ -203,10 +205,12 @@
 
       &::before {
         border: 2px solid $progress-indicator-complete;
-        background: $white; }
+        background: $white;
+      }
 
       &::after {
-        color: $white; }
+        color: $white;
+      }
 
       span {
         color: $progress-indicator-incomplete;
@@ -293,7 +297,8 @@
       top: 50%; // height of bar
       transform: translateY(-100%);
       left: 50%;
-      margin-left: 1.5em\9;
+      margin-left: 1.5em \9
+    ;
       z-index: 0;
       height: 0.15em;
     }
@@ -302,7 +307,7 @@
       display: none;
     }
 
-    &:first-child:after{
+    &:first-child:after {
       background: $progress-indicator-complete;
     }
 
@@ -315,10 +320,12 @@
 
       &::before {
         border: 2px solid $progress-indicator-complete;
-        background: $white; }
+        background: $white;
+      }
 
       &::after {
-        color: $white; }
+        color: $white;
+      }
 
       span {
         color: $progress-indicator-incomplete;
@@ -405,7 +412,8 @@
       top: 50%; // height of bar
       transform: translateY(-100%);
       left: 50%;
-      margin-left: 1.5em\9;
+      margin-left: 1.5em \9
+    ;
       z-index: 0;
       height: 0.15em;
     }
@@ -414,7 +422,7 @@
       display: none;
     }
 
-    &:first-child:after{
+    &:first-child:after {
       background: $progress-indicator-complete;
     }
 
@@ -427,10 +435,12 @@
 
       &::before {
         border: 2px solid $progress-indicator-complete;
-        background: $white; }
+        background: $white;
+      }
 
       &::after {
-        color: $white; }
+        color: $white;
+      }
 
       span {
         color: $progress-indicator-incomplete;
@@ -521,7 +531,8 @@
       top: 50%; // height of bar
       transform: translateY(-100%);
       left: 50%;
-      margin-left: 1.5em\9;
+      margin-left: 1.5em \9
+    ;
       z-index: 0;
       height: 0.15em;
     }
@@ -530,7 +541,7 @@
       display: none;
     }
 
-    &:first-child:after{
+    &:first-child:after {
       background: $progress-indicator-complete;
     }
 
@@ -547,10 +558,12 @@
 
       &::before {
         border: 2px solid $progress-indicator-complete;
-        background: $white; }
+        background: $white;
+      }
 
       &::after {
-        color: $white; }
+        color: $white;
+      }
 
       span {
         color: $progress-indicator-incomplete;

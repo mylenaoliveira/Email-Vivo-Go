@@ -13,7 +13,6 @@
 //   8. Thumbnail
 //   9. Progress
 
-
 // 1. Global
 // ---------
 
@@ -96,17 +95,17 @@ $stat-font-size: 40px;
 // ---------
 
 $button-padding: (
-  tiny: 4px 8px 4px 8px,
-  small: 5px 5px 5px 5px,
-  default: 5px 5px 5px 5px,
-  large: 10px 20px 10px 20px,
+        tiny: 4px 8px 4px 8px,
+        small: 5px 5px 5px 5px,
+        default: 5px 5px 5px 5px,
+        large: 10px 20px 10px 20px,
 );
 
 $button-font-size: (
-  tiny: 10px,
-  small: 16px,
-  default: 16px,
-  large: 20px,
+        tiny: 10px,
+        small: 16px,
+        default: 16px,
+        large: 20px,
 );
 
 $button-color: $white;
@@ -150,7 +149,6 @@ $thumbnail-shadow-hover: 0 0 6px 1px rgba($primary-color, 0.5);
 $thumbnail-transition: box-shadow 200ms ease-out;
 $thumbnail-radius: $global-radius;
 
-
 /// 9. Progress
 // ------------
 
@@ -160,7 +158,6 @@ $progress-indicator-current: $primary-color;
 $progress-indicator-incomplete: $light-gray;
 $progress-indicator-step-size: 1.3em;
 $progress-indicator-width: 100%;
-
 
 @font-face {
   font-family: 'Open-Sans';

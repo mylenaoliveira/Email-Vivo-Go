@@ -1,8 +1,9 @@
 p {
-  margin-bottom: 5px!important;
+  margin-bottom: 5px !important;
   font-family: $body-font-family;
   font-size: $global-font-size;
-  color: #333333; }
+  color: #333333;
+}
 
 .titulo {
   font-size: $h1-font-size;
@@ -12,9 +13,9 @@ p {
   text-transform: uppercase;
   font-family: $title-font-family;
   top: 50%;
-  left: 40%;
-  margin: 0!important;
-  transform: translate(-50%, -50%);
+  left: 30px;
+  margin: 0 !important;
+  transform: translateY(-50%);
   line-height: 130%;
 }
 
@@ -24,14 +25,16 @@ p {
   color: #660099;
   justify-content: center;
   margin-bottom: 20px;
-  font-family: $title-font-family;}
+  font-family: $title-font-family;
+}
 
 .rodape {
   font-size: 12px;
   color: #777777;
   margin: 0 !important;
   width: 600px;
-  font-family: $body-font-family; }
+  font-family: $body-font-family;
+}
 
 .titulo-nome {
   font-size: $h5-font-size;
@@ -39,65 +42,128 @@ p {
   font-weight: bold;
   margin-bottom: 15px !important;
   margin-top: 25px !important;
-  font-family: $body-font-family; }
+  font-family: $body-font-family;
+}
 
-  @media only screen and (max-width: #{$global-breakpoint}) {
-    p.titulo-grande {
-      top: 150px !important;
-      left: 30px !important;
-      font-size: 40px !important; } }
+@media only screen and (max-width: #{$global-breakpoint}) {
+  p.titulo-grande {
+    top: 150px !important;
+    left: 30px !important;
+    font-size: 40px !important;
+  }
+}
 
 .link-atendimento {
-  margin-top: 5px; }
+  margin-top: 5px;
+}
 
 .final {
   font-size: 16px;
   margin-top: 15px;
-  font-family: $body-font-family; }
+  font-family: $body-font-family;
+}
 
 .destaque {
   font-weight: bold;
   color: #333333;
   text-transform: uppercase;
-  font-family: $body-font-family; }
+  font-family: $body-font-family;
+}
 
-  @media only screen and (max-width: #{$global-breakpoint}) {
-    p.titulo-medio {
-      top: 150px !important;
-      left: 30px !important;
-      font-size: 20px !important; } }
+@media only screen and (max-width: #{$global-breakpoint}) {
+  p.titulo-medio {
+    top: 150px !important;
+    left: 30px !important;
+    font-size: 20px !important;
+  }
+}
 
 .corpo-texto {
   font-size: 18px;
   color: #333333;
-  font-family: $body-font-family; }
+  font-family: $body-font-family;
+}
 
 .atencao {
   font-size: 25px;
   font-weight: bold;
   line-height: 135%;
-  margin-right: 124px;
+  margin-right: 100px;
   margin-left: 120px;
-  font-family: $title-font-family; }
+  font-family: $title-font-family;
+}
 
 .chamada-texto {
   font-size: 20px;
   color: #333333;
   margin-bottom: 35px !important;
-  font-family: $body-font-family; }
+  font-family: $body-font-family;
+}
 
 .titulo-container {
   font-weight: bold;
   font-size: 25px;
   text-transform: uppercase;
   color: #333333;
-  font-family: $body-font-family; }
+  font-family: $body-font-family;
+}
 
-.texto-container {
-  margin-right: 327px;
+//legenda
+#texto-container-1 {
+  width: 80%;
   font-size: 18px;
   color: #333333;
-  font-family: $body-font-family; }
+  float: left;
+}
+
+#texto-container-2 {
+  width: 100%;
+  font-size: 18px !important;
+  color: #333333;
+  float: left;
+}
+
+#texto-container-3 {
+   width: 80%;
+   font-size: 18px;
+   color: #333333;
+   float: left;
+ }
+
+#texto-container-4 {
+  width: 80%;
+  font-size: 18px;
+  color: #333333;
+  float: left;
+}
+
+#texto-container-5 {
+  width: 80%;
+  font-size: 18px;
+  color: #333333;
+  float: left;
+}
+
+#texto-container-6 {
+  width: 80%;
+  font-size: 18px;
+  color: #333333;
+  float: left;
+}
+
+#texto-container-7 {
+  width: 80%;
+  font-size: 18px;
+  color: #333333;
+  float: left;
+}
+
+
+
+th.large-6.first th.large-6 th.columns #texto-content {
+  margin: 0;
+  padding: 0;
+}
 
 .titulo-status {
   font-family: $title-font-family;
@@ -105,7 +171,8 @@ p {
   line-height: 130% !important;
   text-transform: uppercase;
   font-size: $h6-font-size;
-  color: $primary-color; }
+  color: $primary-color;
+}
 
 #before-btn {
   margin-top: 35px !important;

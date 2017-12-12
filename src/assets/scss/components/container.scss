@@ -1,32 +1,16 @@
-table.inicio-instalacao {
-  position: relative;
-  text-align: right;
-  background-image: url('http://images.before.com.br/formulario-solicitacao.png');
-  width: 100%;
-  height: 300px;
-  margin: 0!important;}
-
-table.inicio-formulario {
-  position: relative;
-  text-align: right;
-  background-image: url('http://images.before.com.br/formulario-solicitacao.png') bottom center no-repeat;
-  width: 100%;
-  height: 300px;
-  margin: 0!important;}
-
-table.inicio-emissao {
-  position: relative;
-  text-align: right;
-  background-image: url('http://images.before.com.br/instalacao.png') bottom center no-repeat;
-  width: 100%;
-  height: 300px;
-  margin: 0!important;}
+#content-1 {
+  position: absolute;
+  width: 540px !important;
+  align-items: center;
+  margin-bottom: 10px;
+}
 
 .conteudo {
   line-height: 2;
   border: 1px;
   margin-left: 30px !important;
-  margin-right: 30px !important; }
+  margin-right: 30px !important;
+}
 
 .rodape-div {
   float: center;
@@ -40,9 +24,11 @@ table.inicio-emissao {
 .conteudo-container {
 }
 
-.aviso {
-align-content:left; }
+.aviso-conteudo {
+  align-content: left;
+}
 
 .box-conteudo {
   border-radius: 10px !important;
-  border: 1px solid #bdbdbd !important }
+  border: 1px solid #bdbdbd !important
+}

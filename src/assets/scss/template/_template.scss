@@ -3,7 +3,7 @@
 
 // Body Styles 
 body,
-html, 
+html,
 .body {
   background: #f3f3f3 !important;
 }
@@ -58,6 +58,7 @@ table.button.google table td {
   background: #f3f3f3;
 }
 
+//callout
 .callout {
   margin-left: 55px !important;
   margin-right: 55px !important;
@@ -66,4 +67,34 @@ table.button.google table td {
 
 th.callout-inner {
   padding: 0 !important;
+}
+
+table.container {
+  width: 540px !important;
+}
+
+//columns
+th.large-6.first th.large-6 th.columns {
+  margin: 0!important;
+  padding: 0!important;
+}
+
+.large-6 {
+  margin: 0!important;
+  padding: 0!important;
+}
+
+.small-6 {
+  margin: 0!important;
+  padding: 0!important;
+}
+
+.large-12 {
+  margin: 0!important;
+  padding: 0!important;
+}
+
+.small-12 {
+  margin: 0!important;
+  padding: 0!important;
 }
