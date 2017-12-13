@@ -1,20 +1,27 @@
 .conteudo {
   line-height: 2;
   border: 1px;
-  margin-left: 30px !important;
-  margin-right: 30px !important;
+  margin-left: 1.88rem !important;
+  margin-right: 1.88rem !important;
 }
 
 .rodape-div {
-  float: center;
   text-align: center !important;
-  width: 580px !important;
   justify-content: center;
   display: flex;
   align-items: center;
 }
 
 .conteudo-container {
+  margin-bottom: 1.88rem !important;
+}
+
+.conteudo-container-red {
+  margin-bottom: 1.3rem !important;
+}
+
+.conteudo-container-red-up {
+  margin-top: 1.88rem !important;
 }
 
 .aviso-conteudo {
