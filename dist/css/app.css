@@ -514,16 +514,16 @@ p {
   color: #333333; }
 
 .titulo {
-  font-size: 55px;
+  font-size: 50px;
   font-weight: bold;
   color: #ffffff;
-  position: absolute;
+  position: relative;
   text-transform: uppercase;
   font-family: Lato, Verdana, Arial, sans-serif;
   top: 50%;
   left: 2rem;
   margin: 0 !important;
-  transform: translateY(-50%);
+  transform: translateY(38%);
   line-height: 130%; }
 
 .vivo {
