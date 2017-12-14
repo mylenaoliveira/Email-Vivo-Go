@@ -62,9 +62,9 @@ table.container.inicio-instalacao {
   background-image: url('https://i.imgur.com/LbcqrgJ.png');
   background-repeat: no-repeat;
   background-position: top center;
-  /*background-size: cover;*/
+  /*background-size: auto 224px;*/
   width: 100% !important;
-  height: 14rem;
+  height: 224px !important;
   margin: 0 !important;
 }
 
@@ -77,7 +77,7 @@ table.container.inicio-formulario {
   background-position: top center;
   /*background-size: cover;*/
   width: 100% !important;
-  height: 14rem;
+  height: 224px !important;
   margin: 0 !important;
 }
 
@@ -90,7 +90,7 @@ table.container.inicio-emissao {
   background-position: top center;
   /*background-size: cover;*/
   width: 100% !important;
-  height: 14rem;
+  height: 224px !important;
   margin: 0 !important;
 }
 
@@ -101,12 +101,13 @@ table.container.solicitacao-aberto {
   background-image: url('https://i.imgur.com/lWvrWrF.png');
   background-repeat: no-repeat;
   background-position: top center;
-  background-size: cover;
+  /*background-size: cover;*/
   width: 100% !important;
-  height: 13.8rem;
+  height: 224px !important;
   margin: 0 !important;
 }
 
+//etapas solicitação
 table.container.etapa-analise {
   position: relative;
   text-align: right;
@@ -114,10 +115,10 @@ table.container.etapa-analise {
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
-  width: 100% !important;
-  height: 3em;
-  margin-top: 4.5rem;
-  margin-bottom: 4rem;
+  width: 86% !important;
+  height: 3.47em;
+  margin-top: 3.5rem;
+  margin-bottom: 3.5rem;
 }
 
 table.container.etapa-desenvolvimento {
@@ -127,10 +128,10 @@ table.container.etapa-desenvolvimento {
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
-  width: 100% !important;
-  height: 3em;
-  margin-top: 4.5rem;
-  margin-bottom: 4rem;
+  width: 86% !important;
+  height: 3.47em;
+  margin-top: 3.5rem;
+  margin-bottom: 3.5rem;
 }
 
 table.container.etapa-apvdev {
@@ -140,10 +141,10 @@ table.container.etapa-apvdev {
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
-  width: 100% !important;
-  height: 3em;
-  margin-top: 4.5rem;
-  margin-bottom: 4rem;
+  width: 86% !important;
+  height: 3.47em;
+  margin-top: 3.5rem;
+  margin-bottom: 3.5rem;
 }
 
 table.container.etapa-recusada {
@@ -153,10 +154,10 @@ table.container.etapa-recusada {
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
-  width: 100% !important;
-  height: 3.3em;
-  margin-top: 4.5rem;
-  margin-bottom: 4rem;
+  width: 86% !important;
+  height: 3.47em;
+  margin-top: 3.5rem;
+  margin-bottom: 3.5rem;
 }
 
 table.container.etapa-publicacao {
@@ -166,12 +167,13 @@ table.container.etapa-publicacao {
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
-  width: 100% !important;
+  width: 86% !important;
   height: 3.47em;
-  margin-top: 4.5rem;
-  margin-bottom: 4rem;
+  margin-top: 3.5rem;
+  margin-bottom: 3.5rem;
 }
 
+//ícones
 .fa {
   color: $primary-color;
   width: 2rem; // makes the width of icon labels equal

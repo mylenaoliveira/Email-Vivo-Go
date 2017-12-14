@@ -2,46 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d694172a-cb54-4517-b9f5-0399992457f6" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/assets/img/atencao.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/assets/img/emissaonota.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/assets/img/formulario-solicitacao.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/assets/img/imgemail.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/assets/img/instalacao.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/assets/img/atencao.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/assets/img/emissaonota.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/assets/img/formulario-solicitacao.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/assets/img/imgemail.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/assets/img/instalacao.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/assets/img/atencao1.png" afterPath="$PROJECT_DIR$/dist/assets/img/atencao1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/assets/img/enviar.png" afterPath="$PROJECT_DIR$/dist/assets/img/enviar.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/img/atencao1.png" afterPath="$PROJECT_DIR$/src/assets/img/atencao1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/img/enviar.png" afterPath="$PROJECT_DIR$/src/assets/img/enviar.png" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/assets/img/atencao1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/assets/img/formulario-solicitacao1.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/assets/img/imagensemail.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/assets/img/imagensemail.zip" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/analiseemaberto.html" afterPath="$PROJECT_DIR$/dist/analiseemaberto.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/basic.html" afterPath="$PROJECT_DIR$/dist/basic.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/chamado-desenvolvimento.html" afterPath="$PROJECT_DIR$/dist/chamado-desenvolvimento.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/css/app.css" afterPath="$PROJECT_DIR$/dist/css/app.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/drip.html" afterPath="$PROJECT_DIR$/dist/drip.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/email-vivo-go.html" afterPath="$PROJECT_DIR$/dist/email-vivo-go.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/email-vivo.html" afterPath="$PROJECT_DIR$/dist/email-vivo.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/emissão-nfce.html" afterPath="$PROJECT_DIR$/dist/emissão-nfce.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/emissão-nfe.html" afterPath="$PROJECT_DIR$/dist/emissão-nfe.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/formulario-solicitacao.html" afterPath="$PROJECT_DIR$/dist/formulario-solicitacao.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/hero.html" afterPath="$PROJECT_DIR$/dist/hero.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/instalacao.html" afterPath="$PROJECT_DIR$/dist/instalacao.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/marketing.html" afterPath="$PROJECT_DIR$/dist/marketing.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/newsletter-2.html" afterPath="$PROJECT_DIR$/dist/newsletter-2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/newsletter.html" afterPath="$PROJECT_DIR$/dist/newsletter.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/order.html" afterPath="$PROJECT_DIR$/dist/order.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/password.html" afterPath="$PROJECT_DIR$/dist/password.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/reinstalacao.html" afterPath="$PROJECT_DIR$/dist/reinstalacao.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/sidebar-hero.html" afterPath="$PROJECT_DIR$/dist/sidebar-hero.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/sidebar.html" afterPath="$PROJECT_DIR$/dist/sidebar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/solicitacao-aberto.html" afterPath="$PROJECT_DIR$/dist/solicitacao-aberto.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/solicitacao-aprovada.html" afterPath="$PROJECT_DIR$/dist/solicitacao-aprovada.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/solicitacao-publicacao.html" afterPath="$PROJECT_DIR$/dist/solicitacao-publicacao.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/solicitacao-recusada.html" afterPath="$PROJECT_DIR$/dist/solicitacao-recusada.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/scss/_settings.scss" afterPath="$PROJECT_DIR$/src/assets/scss/_settings.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/scss/app.scss" afterPath="$PROJECT_DIR$/src/assets/scss/app.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/scss/components/container.scss" afterPath="$PROJECT_DIR$/src/assets/scss/components/container.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/scss/components/form.scss" afterPath="$PROJECT_DIR$/src/assets/scss/components/form.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/welcome.html" afterPath="$PROJECT_DIR$/dist/welcome.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/scss/components/images.scss" afterPath="$PROJECT_DIR$/src/assets/scss/components/images.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/scss/components/text.scss" afterPath="$PROJECT_DIR$/src/assets/scss/components/text.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/scss/template/_template.scss" afterPath="$PROJECT_DIR$/src/assets/scss/template/_template.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/analiseemaberto.html" afterPath="$PROJECT_DIR$/src/pages/analiseemaberto.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/chamado-desenvolvimento.html" afterPath="$PROJECT_DIR$/src/pages/chamado-desenvolvimento.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/emissão-nfce.html" afterPath="$PROJECT_DIR$/src/pages/emissão-nfce.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/emissão-nfe.html" afterPath="$PROJECT_DIR$/src/pages/emissão-nfe.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/formulario-solicitacao.html" afterPath="$PROJECT_DIR$/src/pages/formulario-solicitacao.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/solicitacao-aprovada.html" afterPath="$PROJECT_DIR$/src/pages/solicitacao-aprovada.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/solicitacao-publicacao.html" afterPath="$PROJECT_DIR$/src/pages/solicitacao-publicacao.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/solicitacao-recusada.html" afterPath="$PROJECT_DIR$/src/pages/solicitacao-recusada.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -61,10 +54,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="formulario-solicitacao.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="formulario-solicitacao.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pages/formulario-solicitacao.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="447">
+            <state relative-caret-position="1455">
               <caret line="89" column="0" lean-forward="false" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
               <folding />
             </state>
@@ -81,41 +74,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="text.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/assets/scss/components/text.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="84" column="29" lean-forward="false" selection-start-line="84" selection-start-column="29" selection-end-line="84" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="link.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/assets/scss/components/link.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="155">
-              <caret line="67" column="15" lean-forward="false" selection-start-line="67" selection-start-column="15" selection-end-line="67" selection-end-column="15" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="images.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/assets/scss/components/images.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="224" column="17" lean-forward="false" selection-start-line="224" selection-start-column="17" selection-end-line="224" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="container.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/assets/scss/components/container.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="33" column="1" lean-forward="false" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+            <state relative-caret-position="323">
+              <caret line="35" column="13" lean-forward="false" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="images.scss" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/assets/scss/components/images.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="82" column="0" lean-forward="false" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_settings.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/assets/scss/_settings.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="177">
+              <caret line="123" column="28" lean-forward="false" selection-start-line="123" selection-start-column="28" selection-end-line="123" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -124,8 +107,8 @@
       <file leaf-file-name="_template.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/assets/scss/template/_template.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-435">
-              <caret line="67" column="18" lean-forward="false" selection-start-line="67" selection-start-column="18" selection-end-line="67" selection-end-column="18" />
+            <state relative-caret-position="218">
+              <caret line="70" column="1" lean-forward="false" selection-start-line="70" selection-start-column="1" selection-end-line="70" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -144,10 +127,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>chamada</find>
-      <find>before-btn</find>
-      <find>before-p</find>
-      <find>before-final</find>
       <find>solicitacao</find>
       <find>rodape-div</find>
       <find>conteudo</find>
@@ -174,9 +153,14 @@
       <find>aviso-conteudo</find>
       <find>aviso</find>
       <find>atenca</find>
+      <find />
+      <find>539px</find>
+      <find>box-conteudo</find>
+      <find>539</find>
     </findStrings>
     <dirStrings>
       <dir>C:\Users\Mylena\Documents\GitHub\Email-Vivo-Go\node_modules</dir>
+      <dir>C:\Users\Mylena\Documents\GitHub\Email-Vivo-Go</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -194,7 +178,6 @@
         <option value="$PROJECT_DIR$/dist/index.html" />
         <option value="$PROJECT_DIR$/dist/email-vivo.html" />
         <option value="$PROJECT_DIR$/src/pages/archive/instalacao.html" />
-        <option value="$PROJECT_DIR$/dist/instalacao.html" />
         <option value="$PROJECT_DIR$/gulpfile.babel.js" />
         <option value="$PROJECT_DIR$/dist/solicitacao-aprovada.html" />
         <option value="$PROJECT_DIR$/src/pages/solicitacao-pronta.html" />
@@ -214,7 +197,6 @@
         <option value="$PROJECT_DIR$/dist/emissão-nfe.html" />
         <option value="$PROJECT_DIR$/dist/emissão-nfce.html" />
         <option value="$PROJECT_DIR$/src/assets/scss/app.scss" />
-        <option value="$PROJECT_DIR$/src/assets/scss/_settings.scss" />
         <option value="$PROJECT_DIR$/dist/analiseemaberto.html" />
         <option value="$PROJECT_DIR$/src/pages/analiseemaberto.html" />
         <option value="$PROJECT_DIR$/src/pages/chamado-desenvolvimento.html" />
@@ -226,11 +208,13 @@
         <option value="$PROJECT_DIR$/src/assets/scss/components/link.scss" />
         <option value="$PROJECT_DIR$/src/pages/emissão-nfe.html" />
         <option value="$PROJECT_DIR$/src/pages/emissão-nfce.html" />
-        <option value="$PROJECT_DIR$/src/assets/scss/template/_template.scss" />
         <option value="$PROJECT_DIR$/src/assets/scss/components/container.scss" />
-        <option value="$PROJECT_DIR$/src/assets/scss/components/text.scss" />
-        <option value="$PROJECT_DIR$/src/assets/scss/components/images.scss" />
         <option value="$PROJECT_DIR$/src/pages/formulario-solicitacao.html" />
+        <option value="$PROJECT_DIR$/src/assets/scss/components/text.scss" />
+        <option value="$PROJECT_DIR$/dist/instalacao.html" />
+        <option value="$PROJECT_DIR$/src/assets/scss/_settings.scss" />
+        <option value="$PROJECT_DIR$/src/assets/scss/template/_template.scss" />
+        <option value="$PROJECT_DIR$/src/assets/scss/components/images.scss" />
       </list>
     </option>
   </component>
@@ -270,11 +254,11 @@
   <component name="PackageJsonUpdateNotifier">
     <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="3357" />
-    <option name="y" value="-16" />
-    <option name="width" value="507" />
-    <option name="height" value="232" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="2608" />
+    <option name="y" value="-25" />
+    <option name="width" value="406" />
+    <option name="height" value="186" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -336,12 +320,6 @@
               <item name="assets" type="462c0819:PsiDirectoryNode" />
               <item name="scss" type="462c0819:PsiDirectoryNode" />
               <item name="template" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Email-Vivo-Go" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Email-Vivo-Go" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -472,8 +450,8 @@
     </list>
     <recent_temporary>
       <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="npm.start" />
-        <item index="1" class="java.lang.String" itemvalue="npm.build" />
+        <item index="0" class="java.lang.String" itemvalue="npm.build" />
+        <item index="1" class="java.lang.String" itemvalue="npm.start" />
       </list>
     </recent_temporary>
   </component>
@@ -514,12 +492,12 @@
       <workItem from="1512994000787" duration="10454000" />
       <workItem from="1513080253404" duration="21476000" />
       <workItem from="1513166878158" duration="18676000" />
-      <workItem from="1513253104716" duration="9361000" />
+      <workItem from="1513253104716" duration="14295000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="203128000" />
+    <option name="totallyTimeSpent" value="208062000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -531,17 +509,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20729773" sideWeight="0.28490028" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19777896" sideWeight="0.66561013" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19777896" sideWeight="0.6628571" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32885906" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.22668113" sideWeight="0.16822916" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2181208" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32892805" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19777896" sideWeight="0.33438987" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29418343" sideWeight="0.83177084" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19777896" sideWeight="0.33714285" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41275167" sideWeight="0.83177084" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24960339" sideWeight="0.48866856" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2147651" sideWeight="0.48630136" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20729773" sideWeight="0.28450704" order="3" side_tool="true" content_ui="tabs" />
@@ -709,26 +686,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dist/instalacao.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="5" column="8" lean-forward="false" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/assets/scss/components/form.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/scss/_settings.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="74">
-          <caret line="123" column="30" lean-forward="false" selection-start-line="123" selection-start-column="30" selection-end-line="123" selection-end-column="30" />
           <folding />
         </state>
       </provider>
@@ -885,14 +846,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/solicitacao-aberto.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-168">
-          <caret line="22" column="41" lean-forward="false" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/assets/scss/components/link.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="155">
@@ -901,42 +854,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/scss/template/_template.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-435">
-          <caret line="67" column="18" lean-forward="false" selection-start-line="67" selection-start-column="18" selection-end-line="67" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/scss/components/container.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="33" column="1" lean-forward="false" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/assets/scss/components/text.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="84" column="29" lean-forward="false" selection-start-line="84" selection-start-column="29" selection-end-line="84" selection-end-column="29" />
+        <state relative-caret-position="1227">
+          <caret line="77" column="0" lean-forward="false" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/scss/components/images.scss">
+    <entry file="file://$PROJECT_DIR$/src/pages/solicitacao-aberto.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="224" column="17" lean-forward="false" selection-start-line="224" selection-start-column="17" selection-end-line="224" selection-end-column="17" />
+        <state relative-caret-position="-168">
+          <caret line="22" column="41" lean-forward="false" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/instalacao.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/formulario-solicitacao.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
+        <state relative-caret-position="1455">
           <caret line="89" column="0" lean-forward="false" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/scss/components/container.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="35" column="13" lean-forward="false" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/scss/_settings.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="123" column="28" lean-forward="false" selection-start-line="123" selection-start-column="28" selection-end-line="123" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/scss/template/_template.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="70" column="1" lean-forward="false" selection-start-line="70" selection-start-column="1" selection-end-line="70" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/scss/components/images.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="82" column="0" lean-forward="false" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
           <folding />
         </state>
       </provider>
