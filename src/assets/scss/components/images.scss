@@ -39,67 +39,66 @@ img.logo-vivo-go {
   float: right;
   display: block;
   width: 17rem;
-}
-
-.gif-img-2 {
-  float: right;
-  display: block;
-  width: 30rem;
+  border: 1px solid #bdbdbd;
 }
 
 .gif-img-center {
   width: 34rem;
   display: block;
   margin: 0 auto;
+  border: 1px solid #bdbdbd;
 }
 
 .img-enviar {
-  height: 5rem;
-  vertical-align: middle;
+  width: 20rem;
   display: block;
-  margin: 0 auto;
+  border: 1px solid #bdbdbd;
 }
 
 table.container.inicio-instalacao {
   position: relative;
   text-align: right;
-  background-image: url('http://images.before.com.br/instalacao.png');
+  /*background-image: url('http://images.before.com.br/instalacao.png');*/
+  background-image: url('https://i.imgur.com/LbcqrgJ.png');
   background-repeat: no-repeat;
   background-position: top center;
-  background-size: cover;
+  /*background-size: cover;*/
   width: 100% !important;
-  height: 13rem;
+  height: 14rem;
   margin: 0 !important;
 }
 
 table.container.inicio-formulario {
   position: relative;
   text-align: right;
-  background-image: url('http://images.before.com.br/formulario-solicitacao.png');
+  /*background-image: url('http://images.before.com.br/formulario-solicitacao.png');*/
+  background-image: url('https://i.imgur.com/wG384D5.png');
   background-repeat: no-repeat;
   background-position: top center;
-  background-size: cover;
+  /*background-size: cover;*/
   width: 100% !important;
-  height: 13rem;
+  height: 14rem;
   margin: 0 !important;
 }
 
 table.container.inicio-emissao {
   position: relative;
   text-align: right;
-  background-image: url('http://images.before.com.br/instalacao.png');
+  /*background-image: url('http://images.before.com.br/vivogo/emissaonota.png');*/
+  background-image: url('https://i.imgur.com/9NEUi2V.png');
   background-repeat: no-repeat;
   background-position: top center;
-  background-size: cover;
+  /*background-size: cover;*/
   width: 100% !important;
-  height: 13rem;
+  height: 14rem;
   margin: 0 !important;
 }
 
 table.container.solicitacao-aberto {
   position: relative;
   text-align: right;
-  background-image: url('http://images.before.com.br/solicitacaoaberto1.png');
+  /*background-image: url('http://images.before.com.br/solicitacaoaberto1.png');*/
+  background-image: url('https://i.imgur.com/lWvrWrF.png');
   background-repeat: no-repeat;
   background-position: top center;
   background-size: cover;
@@ -108,3 +107,124 @@ table.container.solicitacao-aberto {
   margin: 0 !important;
 }
 
+table.container.etapa-analise {
+  position: relative;
+  text-align: right;
+  background-image: url('https://i.imgur.com/45BV0Cr.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  width: 100% !important;
+  height: 3em;
+  margin-top: 4.5rem;
+  margin-bottom: 4rem;
+}
+
+table.container.etapa-desenvolvimento {
+  position: relative;
+  text-align: right;
+  background-image: url('https://i.imgur.com/xNrRi4D.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  width: 100% !important;
+  height: 3em;
+  margin-top: 4.5rem;
+  margin-bottom: 4rem;
+}
+
+table.container.etapa-apvdev {
+  position: relative;
+  text-align: right;
+  background-image: url('https://i.imgur.com/MU2trOR.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  width: 100% !important;
+  height: 3em;
+  margin-top: 4.5rem;
+  margin-bottom: 4rem;
+}
+
+table.container.etapa-recusada {
+  position: relative;
+  text-align: right;
+  background-image: url('https://i.imgur.com/b0lvfan.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  width: 100% !important;
+  height: 3.3em;
+  margin-top: 4.5rem;
+  margin-bottom: 4rem;
+}
+
+table.container.etapa-publicacao {
+  position: relative;
+  text-align: right;
+  background-image: url('https://i.imgur.com/xOtlJRS.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  width: 100% !important;
+  height: 3.47em;
+  margin-top: 4.5rem;
+  margin-bottom: 4rem;
+}
+
+.fa {
+  color: $primary-color;
+  width: 2rem; // makes the width of icon labels equal
+  position: absolute;
+  transform: translateX(-50%);
+  margin-top: 0.4rem;
+}
+
+.fa-download {
+  position: relative !important;
+  transform: translateX(-30%);
+  color: $white;
+  margin-right: 0.4rem;
+  width: 1rem; // makes the width of icon labels equal }
+}
+
+.fa-book {
+  position: relative !important;
+  transform: translateX(-30%);
+  color: $white;
+  margin-right: 0.4rem;
+  width: 1rem; // makes the width of icon labels equal }
+}
+
+.aviso {
+  color: $primary-color;
+  font-size: 100px; // makes the width of icon labels equal
+  position: absolute;
+  transform: translateX(2%);
+}
+
+table.container.icn-download {
+  color: #ffffff;
+  background-image: url('https://i.imgur.com/y3T65wX.png');
+  height: 2rem;
+  margin: 0.5rem;
+}
+
+table.container.icn-manual {
+  color: #ffffff;
+  /*background-image: url('https://i.imgur.com/BqCXEGR.png');*/
+  position: relative;
+  height: 1rem;
+  width: 100%;
+  /*margin: 0.5rem;*/
+}
+
+table.container .icn-atencao {
+  height: 12% !important;
+  width: 100%;
+  display: block;
+  position: absolute;
+  background-repeat: no-repeat;
+  /*background-image: url('https://i.imgur.com/lCKjZFr.png');*/
+  background-image: url('https://i.imgur.com/j73Uaj4.png');
+}

@@ -60,17 +60,18 @@ table.button.google table td {
 
 //callout
 .callout {
-  margin-left: 3.5rem !important;
-  margin-right: 3.5rem !important;
+  margin-left: 3rem !important;
+  margin-right: 3rem !important;
   border-collapse: separate;
 }
 
 th.callout-inner {
   padding: 0 !important;
+  width: 600px !important;
 }
 
 table.container {
-  width: 540px !important;
+  width: 539px !important;
 }
 
 //columns
@@ -97,4 +98,13 @@ th.large-6.first th.large-6 th.columns {
 .small-12 {
   margin: 0!important;
   padding: 0!important;
+}
+
+.small-12 {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+th {
+  vertical-align: middle;
 }

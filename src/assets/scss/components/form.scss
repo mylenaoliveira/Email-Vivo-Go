@@ -1,34 +1,3 @@
-.fa {
-  color: $primary-color;
-  width: 2rem; // makes the width of icon labels equal
-  position: absolute;
-  transform: translateX(-50%);
-  margin-top: 0.4rem;
-}
-
-.fa-download {
-  position: relative !important;
-  transform: translateX(-30%);
-  color: $white;
-  margin-right: 0.4rem;
-  width: 1rem; // makes the width of icon labels equal }
-}
-
-.fa-book {
-  position: relative !important;
-  transform: translateX(-30%);
-  color: $white;
-  margin-right: 0.4rem;
-  width: 1rem; // makes the width of icon labels equal }
-}
-
-.aviso {
-  color: $primary-color;
-  font-size: 100px; // makes the width of icon labels equal
-  position: absolute;
-  transform: translateX(2%);
-}
-
 /*etapa 1 análise*/
 .progress-indicator-analise {
   list-style: none;
