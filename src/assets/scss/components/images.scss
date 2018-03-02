@@ -35,6 +35,15 @@ img.logo-vivo-go {
   margin-top: 1.2rem;
 }
 
+img.logo-sun {
+  height: 2.4rem !important;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 2.2rem;
+  margin-top: 1.2rem;
+}
+
 .gif-img-1 {
   float: right;
   display: block;
@@ -58,7 +67,6 @@ img.logo-vivo-go {
 table.container.inicio-instalacao {
   position: relative;
   text-align: right;
-  /*background-image: url('http://images.before.com.br/instalacao.png');*/
   background-image: url('https://i.imgur.com/LbcqrgJ.png');
   background-repeat: no-repeat;
   background-position: top center;
@@ -71,11 +79,9 @@ table.container.inicio-instalacao {
 table.container.inicio-formulario {
   position: relative;
   text-align: right;
-  /*background-image: url('http://images.before.com.br/formulario-solicitacao.png');*/
   background-image: url('https://i.imgur.com/wG384D5.png');
   background-repeat: no-repeat;
   background-position: top center;
-  /*background-size: cover;*/
   width: 100% !important;
   height: 224px !important;
   margin: 0 !important;
@@ -84,11 +90,20 @@ table.container.inicio-formulario {
 table.container.inicio-emissao {
   position: relative;
   text-align: right;
-  /*background-image: url('http://images.before.com.br/vivogo/emissaonota.png');*/
   background-image: url('https://i.imgur.com/9NEUi2V.png');
   background-repeat: no-repeat;
   background-position: top center;
-  /*background-size: cover;*/
+  width: 100% !important;
+  height: 224px !important;
+  margin: 0 !important;
+}
+
+table.container.inicio-migracao {
+  position: relative;
+  text-align: right;
+  background-image: url('https://i.imgur.com/e7M7xuo.png');
+  background-repeat: no-repeat;
+  background-position: top center;
   width: 100% !important;
   height: 224px !important;
   margin: 0 !important;
@@ -97,10 +112,21 @@ table.container.inicio-emissao {
 table.container.solicitacao-aberto {
   position: relative;
   text-align: right;
-  /*background-image: url('http://images.before.com.br/solicitacaoaberto1.png');*/
   background-image: url('https://i.imgur.com/lWvrWrF.png');
   background-repeat: no-repeat;
   background-position: top center;
+  width: 100% !important;
+  height: 224px !important;
+  margin: 0 !important;
+}
+
+table.container.solicitacao-aberto-sun {
+  position: relative;
+  text-align: right;
+  background-image: url('https://i.imgur.com/1ioIgax.png');
+  background-repeat: no-repeat;
+  background-position: top center;
+  border-radius: 10px 10px 0 0 !important;
   /*background-size: cover;*/
   width: 100% !important;
   height: 224px !important;
@@ -176,7 +202,7 @@ table.container.etapa-publicacao {
 //ícones
 .fa {
   color: $primary-color;
-  width: 2rem; // makes the width of icon labels equal
+  width: 2rem;
   position: absolute;
   transform: translateX(-50%);
   margin-top: 0.4rem;
@@ -187,20 +213,19 @@ table.container.etapa-publicacao {
   transform: translateX(-30%);
   color: $white;
   margin-right: 0.4rem;
-  width: 1rem; // makes the width of icon labels equal }
-}
+  width: 1rem;
 
 .fa-book {
   position: relative !important;
   transform: translateX(-30%);
   color: $white;
   margin-right: 0.4rem;
-  width: 1rem; // makes the width of icon labels equal }
+  width: 1rem;
 }
 
 .aviso {
   color: $primary-color;
-  font-size: 100px; // makes the width of icon labels equal
+  font-size: 100px;
   position: absolute;
   transform: translateX(2%);
 }
@@ -214,11 +239,20 @@ table.container.icn-download {
 
 table.container.icn-manual {
   color: #ffffff;
-  /*background-image: url('https://i.imgur.com/BqCXEGR.png');*/
   position: relative;
   height: 1rem;
   width: 100%;
-  /*margin: 0.5rem;*/
+}
+
+table.container .mais-beneficios {
+  height: 10% !important;
+  position: relative;
+  display: initial;
+  background-repeat: no-repeat;
+  margin: -2rem 0 3rem 15rem;
+  border-collapse: 0!important;
+  border-spacing: 0!important;
+  background-image: url('https://i.imgur.com/wKBcqj4.png');
 }
 
 table.container .icn-atencao {
@@ -227,6 +261,57 @@ table.container .icn-atencao {
   display: block;
   position: absolute;
   background-repeat: no-repeat;
-  /*background-image: url('https://i.imgur.com/lCKjZFr.png');*/
   background-image: url('https://i.imgur.com/j73Uaj4.png');
 }
+
+table.container .icone .modulo-financeiro{
+  height: 12% !important;
+  width: 100%;
+  display: block;
+  position: absolute;
+  background-repeat: no-repeat;
+  background-image: url('https://i.imgur.com/5xi2dSJ.png');
+}
+
+
+
+
+  //.modulo-financeiro {
+   // background-image: url('https://i.imgur.com/5xi2dSJ.png');
+ // }
+
+  .modulo-inventario {
+    background-image: url('https://i.imgur.com/BeNsTen.png');
+  }
+
+  .campanhas {
+    background-image: url('https://i.imgur.com/KKIviYJpng');
+  }
+
+  .modulo-fiscal {
+    background-image: url('https://i.imgur.com/0Jd03rfpng');
+  }
+
+  .gestao-documental {
+    background-image: url('https://i.çimgur.com/QRzNWnnpng');
+  }
+
+  .gestao-estoque {
+    background-image: url('https://i.imgur.com/dlMhrXG.png');
+  }
+
+  .gestao-financeira {
+    background-image: url('https://i.imgur.com/X9m8FMA.png');
+  }
+
+  .gestao-vendas {
+    background-image: url('https://i.imgur.com/VDjtSv5.png');
+  }
+
+  .integracoes {
+    background-image: url('https://i.imgur.com/LlGfc5c.png');
+  }
+
+  .metas {
+    background-image: url('https://i.imgur.com/5b3eOV4.png');
+  }

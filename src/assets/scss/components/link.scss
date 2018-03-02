@@ -47,9 +47,7 @@ a.acesso {
   padding: 0.6rem 1.2rem 0.6rem 1.2rem;
   border-radius: $global-radius !important;
   text-transform: uppercase;
-  /*margin-bottom: 35px !important;*/
   margin-left: 9rem !important;
-  /*margin-right: 150px !important;*/
 }
 
 a.acesso-doc {
@@ -59,10 +57,7 @@ a.acesso-doc {
   padding: 0.6rem 1.2rem 0.6rem 1.2rem;
   border-radius: $global-radius !important;
   text-transform: uppercase;
-  /*margin-bottom: 35px !important;*/
-  /*margin-top: 35px !important;*/
   margin-left: 9rem !important;
-  /*margin-right: 150px !important;*/
 }
 
 a.acesso-manual {
@@ -72,10 +67,28 @@ a.acesso-manual {
   padding: 0.6rem 1.2rem 0.6rem 1.2rem;
   border-radius: $global-radius !important;
   text-transform: uppercase;
-  /*margin-bottom: 35px !important;*/
-  /*margin-top: 35px !important;*/
   margin-left: 9rem !important;
-  /*margin-right: 150px !important;*/
+}
+
+a.troca-plano {
+  background: #660099;
+  font-weight: bold;
+  color: $white;
+  padding: 0.6rem 1.2rem 0.6rem 1.2rem;
+  border-radius: $global-radius !important;
+  text-transform: uppercase;
+  margin-left: 9rem !important;
+}
+
+a.troca-plano-flat {
+  background: transparent;
+  font-weight: bold;
+  color: $white;
+  padding: 0.6rem 1.2rem 0.6rem 1.2rem;
+  border-radius: $global-radius !important;
+  border: 2px solid $white;
+  width: 5rem;
+  margin-left: 2rem!important;
 }
 
 a.atendimento {

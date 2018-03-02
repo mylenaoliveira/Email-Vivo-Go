@@ -1,3 +1,7 @@
+.spacer {
+  color: $primary-color
+}
+
 .conteudo {
   line-height: 2;
   border: 1px;
@@ -24,6 +28,11 @@
   margin-bottom: 2rem !important;
 }
 
+//.conteudo-container-red-btn {
+  //margin-bottom: 2rem !important;
+  //margin-top: 2rem !important;
+//}
+
 .conteudo-container-red-up {
   margin-top: 2.5rem !important;
 }
@@ -36,4 +45,11 @@
 .box-conteudo {
   border-radius: 10px !important;
   border: 1px solid #bdbdbd !important
+}
+
+.outros-beneficios {
+  width: 400px;
+  border: 1px solid #E0E0E0;
+  padding: 2rem;
+  border-radius: $global-radius;
 }

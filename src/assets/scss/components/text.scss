@@ -1,5 +1,5 @@
 p {
-  margin-bottom: 5px !important;
+  //margin-bottom: 5px !important;
   font-family: $body-font-family;
   font-size: $global-font-size;
   color: #333333;
@@ -16,6 +16,20 @@ p {
   left: 2rem;
   margin: 0 !important;
   transform: translateY(38%);
+  line-height: 130%;
+}
+
+.titulo-migracao {
+  font-size: 1.8rem;
+  font-weight: 300;
+  color: $white;
+  position: relative;
+  text-transform: none;
+  font-family: $title-font-family;
+  top: 50%;
+  left: 2rem;
+  margin: 0 15rem 3rem 0 !important;
+  transform: translateY(18%);
   line-height: 130%;
 }
 
@@ -44,6 +58,46 @@ p {
   margin-top: 1.5rem !important;
   font-family: $body-font-family;
 }
+
+.titulo-plano {
+  font-size: $h5-font-size;
+  color: #333333;
+  font-weight: bold;
+  margin-top: 1.5rem !important;
+  font-family:$title-font-family;
+}
+
+.beneficios-plus {
+  font-family: $title-font-family;
+  font-size: 22px;
+  font-weight: bold;
+  color: $primary-color;
+  margin-bottom: 3rem;
+}
+
+.titulo-beneficios {
+  font-weight: bold !important;
+  color: $gray !important;
+  font-family: $title-font-family;
+}
+
+.descricao-beneficios {
+  font-size: 15px !important;
+  font-family: $body-font-family !important;
+}
+
+.lista-beneficios {
+  color: $gray;
+  font-size: 17px;
+}
+
+.preco-premium {
+  font-family: $title-font-family;
+  font-size: 22px;
+  font-weight: bold;
+  color: $primary-color;
+}
+
 
 @media only screen and (max-width: #{$global-breakpoint}) {
   p.titulo-grande {
@@ -103,7 +157,7 @@ p {
   font-size: 25px;
   text-transform: uppercase;
   color: #333333;
-  font-family: $body-font-family;
+  font-family: $title-font-family;
 }
 
 //legenda nfe

@@ -21,3 +21,23 @@
   margin-top: 0;
   margin-bottom: 0.4rem;
 }
+
+ul {
+  list-style: none
+}
+
+li::before {
+  content: "•";
+  width: 1rem;
+  display: inline-block;
+  color: #BB69E4;
+}
+
+/*ul li {
+  color: #BB69E4;
+}*/
+
+/*li {
+  padding-left: 1em;
+  text-indent: -.7em;
+}*/
