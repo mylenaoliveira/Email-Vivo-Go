@@ -527,7 +527,7 @@ p {
 
 .titulo-migracao {
   font-size: 1.8rem;
-  font-weight: 300;
+  font-weight: 100;
   color: #ffffff;
   position: relative;
   text-transform: none;
@@ -536,7 +536,10 @@ p {
   left: 2rem;
   margin: 0 15rem 3rem 0 !important;
   transform: translateY(18%);
-  line-height: 130%; }
+  line-height: 120%; }
+
+.titulo-migracao-destaque {
+  font-weight: bold; }
 
 .vivo {
   font-size: 30px;
@@ -588,10 +591,28 @@ p {
   color: #333333;
   font-size: 17px; }
 
-.preco-premium {
+.premium {
   font-family: Lato, Verdana, Arial, sans-serif;
   font-size: 22px;
   font-weight: bold;
+  color: #660099; }
+
+.titulo-preco-premium {
+  font-family: Open Sans, Lato, Verdana, Arial, sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  color: #333333; }
+
+.preco-premium {
+  font-family: Open Sans, Lato, Verdana, Arial, sans-serif;
+  font-size: 45px;
+  font-weight: bold;
+  color: #660099; }
+
+.detalhe-preco {
+  font-family: Open Sans, Lato, Verdana, Arial, sans-serif;
+  font-size: 13px;
+  font-weight: 800;
   color: #660099; }
 
 @media only screen and (max-width: 616px) {
@@ -865,16 +886,6 @@ table.container.etapa-publicacao {
   margin-top: 3.5rem;
   margin-bottom: 3.5rem; }
 
-table.container .mais-beneficios {
-  height: 10% !important;
-  position: relative;
-  display: initial;
-  background-repeat: no-repeat;
-  margin: -2rem 0 3rem 15rem;
-  border-collapse: 0 !important;
-  border-spacing: 0 !important;
-  background-image: url("https://i.imgur.com/wKBcqj4.png"); }
-
 table.container .icn-atencao {
   height: 12% !important;
   width: 100%;
@@ -883,32 +894,22 @@ table.container .icn-atencao {
   background-repeat: no-repeat;
   background-image: url("https://i.imgur.com/j73Uaj4.png"); }
 
-.modulo-inventario {
-  background-image: url("https://i.imgur.com/BeNsTen.png"); }
+table.container .icone {
+  height: 30% !important;
+  display: block;
+  position: relative;
+  margin-top: 0.5rem;
+  margin-bottom: .3rem;
+  background-repeat: no-repeat; }
 
-.campanhas {
-  background-image: url("https://i.imgur.com/KKIviYJpng"); }
-
-.modulo-fiscal {
-  background-image: url("https://i.imgur.com/0Jd03rfpng"); }
-
-.gestao-documental {
-  background-image: url("https://i.çimgur.com/QRzNWnnpng"); }
-
-.gestao-estoque {
-  background-image: url("https://i.imgur.com/dlMhrXG.png"); }
-
-.gestao-financeira {
-  background-image: url("https://i.imgur.com/X9m8FMA.png"); }
-
-.gestao-vendas {
-  background-image: url("https://i.imgur.com/VDjtSv5.png"); }
-
-.integracoes {
-  background-image: url("https://i.imgur.com/LlGfc5c.png"); }
-
-.metas {
-  background-image: url("https://i.imgur.com/5b3eOV4.png"); }
+table.container .mais-beneficios {
+  height: 20% !important;
+  position: relative;
+  display: initial;
+  background-repeat: no-repeat;
+  margin: -2rem 0 3rem 15rem;
+  border-collapse: 0 !important;
+  border-spacing: 0 !important; }
 
 .spacer {
   color: #660099; }
@@ -947,6 +948,12 @@ table.container .icn-atencao {
 
 .outros-beneficios {
   width: 400px;
+  border: 1px solid #E0E0E0;
+  padding: 2rem;
+  border-radius: 10px; }
+
+.cont-premium {
+  width: 210px;
   border: 1px solid #E0E0E0;
   padding: 2rem;
   border-radius: 10px; }
@@ -1034,7 +1041,8 @@ a.atendimento {
   margin-bottom: 0.4rem; }
 
 ul {
-  list-style: none; }
+  list-style: none;
+  margin-top: 0 !important; }
 
 li::before {
   content: "•";

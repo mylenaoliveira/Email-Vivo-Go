@@ -214,6 +214,7 @@ table.container.etapa-publicacao {
   color: $white;
   margin-right: 0.4rem;
   width: 1rem;
+}
 
 .fa-book {
   position: relative !important;
@@ -244,17 +245,6 @@ table.container.icn-manual {
   width: 100%;
 }
 
-table.container .mais-beneficios {
-  height: 10% !important;
-  position: relative;
-  display: initial;
-  background-repeat: no-repeat;
-  margin: -2rem 0 3rem 15rem;
-  border-collapse: 0!important;
-  border-spacing: 0!important;
-  background-image: url('https://i.imgur.com/wKBcqj4.png');
-}
-
 table.container .icn-atencao {
   height: 12% !important;
   width: 100%;
@@ -264,54 +254,24 @@ table.container .icn-atencao {
   background-image: url('https://i.imgur.com/j73Uaj4.png');
 }
 
-table.container .icone .modulo-financeiro{
-  height: 12% !important;
-  width: 100%;
+//migração
+table.container .icone {
+  height: 30% !important;
+  //width: 100%;
   display: block;
-  position: absolute;
+  position: relative;
+  margin-top: 0.5rem;
+  margin-bottom: .3rem;
   background-repeat: no-repeat;
-  background-image: url('https://i.imgur.com/5xi2dSJ.png');
 }
 
-
-
-
-  //.modulo-financeiro {
-   // background-image: url('https://i.imgur.com/5xi2dSJ.png');
- // }
-
-  .modulo-inventario {
-    background-image: url('https://i.imgur.com/BeNsTen.png');
-  }
-
-  .campanhas {
-    background-image: url('https://i.imgur.com/KKIviYJpng');
-  }
-
-  .modulo-fiscal {
-    background-image: url('https://i.imgur.com/0Jd03rfpng');
-  }
-
-  .gestao-documental {
-    background-image: url('https://i.çimgur.com/QRzNWnnpng');
-  }
-
-  .gestao-estoque {
-    background-image: url('https://i.imgur.com/dlMhrXG.png');
-  }
-
-  .gestao-financeira {
-    background-image: url('https://i.imgur.com/X9m8FMA.png');
-  }
-
-  .gestao-vendas {
-    background-image: url('https://i.imgur.com/VDjtSv5.png');
-  }
-
-  .integracoes {
-    background-image: url('https://i.imgur.com/LlGfc5c.png');
-  }
-
-  .metas {
-    background-image: url('https://i.imgur.com/5b3eOV4.png');
-  }
+table.container .mais-beneficios {
+  height: 20% !important;
+  position: relative;
+  display: initial;
+  background-repeat: no-repeat;
+  margin: -2rem 0 3rem 15rem;
+  border-collapse: 0!important;
+  border-spacing: 0!important;
+  //background-image: url('https://i.imgur.com/wKBcqj4.png');
+}

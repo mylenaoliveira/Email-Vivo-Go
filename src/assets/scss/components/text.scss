@@ -21,7 +21,7 @@ p {
 
 .titulo-migracao {
   font-size: 1.8rem;
-  font-weight: 300;
+  font-weight: 100;
   color: $white;
   position: relative;
   text-transform: none;
@@ -30,7 +30,11 @@ p {
   left: 2rem;
   margin: 0 15rem 3rem 0 !important;
   transform: translateY(18%);
-  line-height: 130%;
+  line-height: 120%;
+}
+
+#titulo-migracao-destaque {
+  font-weight: bold;
 }
 
 .vivo {
@@ -91,13 +95,33 @@ p {
   font-size: 17px;
 }
 
-.preco-premium {
+.premium {
   font-family: $title-font-family;
   font-size: 22px;
   font-weight: bold;
   color: $primary-color;
 }
 
+.titulo-preco-premium {
+  font-family: $body-font-family;
+  font-size: 18px;
+  font-weight: bold;
+  color: #333333;
+}
+
+.preco-premium {
+  font-family: $body-font-family;
+  font-size: 45px;
+  font-weight: bold;
+  color: $primary-color;
+}
+
+.detalhe-preco {
+  font-family: $body-font-family;
+  font-size: 13px;
+  font-weight: 800;
+  color: $primary-color;
+}
 
 @media only screen and (max-width: #{$global-breakpoint}) {
   p.titulo-grande {
