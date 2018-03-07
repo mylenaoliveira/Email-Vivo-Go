@@ -52,6 +52,7 @@ p {
   margin: 0 !important;
   width: 34rem;
   font-family: $body-font-family;
+  text-decoration: none!important;
 }
 
 .titulo-nome {
@@ -67,7 +68,7 @@ p {
   font-size: $h5-font-size;
   color: #333333;
   font-weight: bold;
-  margin-top: 1.5rem !important;
+  margin-top: 1rem !important;
   font-family:$title-font-family;
 }
 
@@ -88,6 +89,7 @@ p {
 .descricao-beneficios {
   font-size: 15px !important;
   font-family: $body-font-family !important;
+  margin-bottom: 1rem;
 }
 
 .lista-beneficios {
