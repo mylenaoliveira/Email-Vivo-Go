@@ -45,7 +45,7 @@ a.acesso {
   font-weight: 300;
   color: white;
   padding: 0.6rem 1.2rem 0.6rem 1.2rem;
-  border-radius: $global-radius !important;
+  border-radius: 6px !important;
   text-transform: uppercase;
   margin-left: 9rem !important;
 }
@@ -55,7 +55,7 @@ a.acesso-doc {
   font-weight: 300;
   color: $white;
   padding: 0.6rem 1.2rem 0.6rem 1.2rem;
-  border-radius: $global-radius !important;
+  border-radius: 6px !important;
   text-transform: uppercase;
   margin-left: 9rem !important;
 }
@@ -65,27 +65,38 @@ a.acesso-manual {
   font-weight: 300;
   color: $white;
   padding: 0.6rem 1.2rem 0.6rem 1.2rem;
-  border-radius: $global-radius !important;
+  border-radius: 6px !important;
   text-transform: uppercase;
   margin-left: 9rem !important;
 }
 
-a.troca-plano {
+a.acesso-troca-plano {
   background: #660099;
   font-weight: bold;
   color: $white;
   padding: 0.6rem 1.2rem 0.6rem 1.2rem;
-  border-radius: $global-radius !important;
-  text-transform: uppercase;
+  border-radius: 6px !important;
+  border: 3px solid #660099;
+  text-transform: none;
   margin-left: 9rem !important;
 }
+
+//a.troca-plano {
+//  background: #660099;
+//  font-weight: bold;
+//  color: $white;
+//  padding: 0.6rem 1.2rem 0.6rem 1.2rem;
+//  border-radius: 6px !important;
+//  text-transform: uppercase;
+//  margin-left: 9rem !important;
+//}
 
 a.troca-plano-flat {
   background: transparent;
   font-weight: bold;
   color: $white;
   padding: 0.6rem 1.2rem 0.6rem 1.2rem;
-  border-radius: $global-radius !important;
+  border-radius: 6px !important;
   border: 2px solid $white;
   width: 5rem;
   margin-left: 2rem!important;

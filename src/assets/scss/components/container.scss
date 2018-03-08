@@ -49,21 +49,24 @@
 
 .outros-beneficios {
   width: 400px;
-  border: 1px solid #E0E0E0;
-  padding: 1rem;
-  border-radius: $global-radius;
+  border: 1px solid #e0e0e0;
+  padding: 0.8rem;
+  border-radius: 5px;
   border-collapse: separate;
 }
 
 table.container .cont-premium {
-  width: 250px;
+  width: 212px;
   height: 100px;
-  border: 1px solid #E0E0E0;
-  padding: 2rem;
-  border-radius: $global-radius;
+  //border: 3px solid #660099;
+  border-radius: 5px;
   border-collapse: separate;
+  background-color: #660099;
   float: right;
-  margin-top: 10px;
-  margin-left: 125px;
-  margin-bottom: 35px;
+  margin-top: 1rem;
+  margin-left: 16rem;
+  margin-bottom: 3rem;
+  padding-left: 1rem;
+  padding-bottom: 0.5rem;
+  padding-top: 0.5rem;
 }

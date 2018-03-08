@@ -69,6 +69,7 @@ p {
   color: #333333;
   font-weight: bold;
   margin-top: 1rem !important;
+  margin-bottom: 0 !important;
   font-family:$title-font-family;
 }
 
@@ -94,7 +95,14 @@ p {
 
 .lista-beneficios {
   color: $gray;
-  font-size: 17px;
+  font-size: 16px;
+  padding: 0;
+  width: 112%;
+  margin-right: 7rem;
+}
+
+#larger {
+  margin-right: 9rem;
 }
 
 .premium {
@@ -108,21 +116,36 @@ p {
   font-family: $body-font-family;
   font-size: 18px;
   font-weight: bold;
-  color: #333333;
+  //color: #333333;
+  margin-bottom: -16px;
+  margin-left: 31px;
+  color: #b792ca;
 }
 
 .preco-premium {
   font-family: $body-font-family;
   font-size: 45px;
   font-weight: bold;
-  color: $primary-color;
+  //color: $primary-color;
+  color: $white;
+  margin-right: 0;
+  margin-left: 31px;
 }
+
+.preco-menor {
+  font-size: 22px;
+  margin-left: -13px;
+  color: $white;
+}
+
 
 .detalhe-preco {
   font-family: $body-font-family;
   font-size: 13px;
   font-weight: 800;
-  color: $primary-color;
+  color: #b792ca;
+  margin-top: -16px;
+  margin-left: 87px;
 }
 
 @media only screen and (max-width: #{$global-breakpoint}) {
