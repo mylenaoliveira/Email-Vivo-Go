@@ -20,13 +20,13 @@ p {
 }
 
 .titulo-migracao {
-  font-size: 1.8rem;
+  font-size: 2rem;
   font-weight: 100;
   color: $white;
   position: relative;
   text-transform: none;
   font-family: $title-font-family;
-  top: 50%;
+  //top: 2rem;
   left: 2rem;
   margin: 0 15rem 3rem 0 !important;
   transform: translateY(18%);
@@ -108,7 +108,7 @@ p {
   font-size: 16px;
   padding: 0;
   width: 112%;
-  margin-right: 7rem;
+  margin-right: 4rem;
 }
 
 #larger {
@@ -187,6 +187,28 @@ p {
   font-size: 18px;
   color: #333333;
   font-family: $body-font-family;
+}
+
+.corpo-texto-lista {
+  font-size: 18px;
+  color: #333333;
+  font-family: $body-font-family;
+}
+
+.destaque-modulos {
+  color: #660099;
+}
+
+.titulo-lista {
+  font-size: 18px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.subtitulo-lista {
+  font-size: 18px;
+  font-weight: bold;
+  color: #660099;
 }
 
 #corpo-texto-maior{
@@ -294,7 +316,7 @@ p {
   margin-bottom: 2.2rem !important;
 }
 
-#caminho-nfc {
+.caminho-nfc {
   color: $primary-color;
 }
 

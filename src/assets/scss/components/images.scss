@@ -112,13 +112,23 @@ table.container.inicio-migracao {
 table.container.inicio-boas-vindas {
   position: relative;
   background-image: url('https://s18.postimg.org/pmbbdo42x/header-boas-vindas-1.png');
-  //background-image: url('https://s18.postimg.org/nk23r0xwp/header-boas-vindas-2.png');
   background-repeat: no-repeat;
   background-position: top center;
   width: 100% !important;
   height: 224px !important;
   margin: 0 !important;
 }
+
+table.container.inicio-modulo-caixa {
+  position: relative;
+  background-image: url('https://s18.postimg.org/908gbzsfd/modulo-caixa.png');
+  background-repeat: no-repeat;
+  background-position: top center;
+  width: 100% !important;
+  height: 224px !important;
+  margin: 0 !important;
+}
+
 
 table.container.solicitacao-aberto {
   position: relative;
