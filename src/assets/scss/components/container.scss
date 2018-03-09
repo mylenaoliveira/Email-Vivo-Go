@@ -2,6 +2,10 @@
   color: $primary-color
 }
 
+#boas-vindas {
+  background-color: 660099;
+}
+
 .conteudo {
   line-height: 2;
   border: 1px;
@@ -14,6 +18,7 @@
   justify-content: center;
   display: flex;
   align-items: center;
+  background-color: none;
 }
 
 .conteudo-container-form {
@@ -24,14 +29,13 @@
   margin-bottom: 2.9rem !important;
 }
 
+.conteudo-container-migracao {
+  margin-bottom: 0.5rem !important;
+}
+
 .conteudo-container-red {
   margin-bottom: 2rem !important;
 }
-
-//.conteudo-container-red-btn {
-  //margin-bottom: 2rem !important;
-  //margin-top: 2rem !important;
-//}
 
 .conteudo-container-red-up {
   margin-top: 2.5rem !important;

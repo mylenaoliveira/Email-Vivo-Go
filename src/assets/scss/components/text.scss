@@ -55,11 +55,20 @@ p {
   text-decoration: none!important;
 }
 
+.rodape-boas-vindas {
+  font-size: 12px;
+  color: #FFF;
+  margin: 0 !important;
+  width: 34rem;
+  font-family: $body-font-family;
+  text-decoration: none!important;
+}
+
 .titulo-nome {
   font-size: $h5-font-size;
   color: #333333;
   font-weight: bold;
-  margin-bottom: 1.5rem !important;
+  margin-bottom: 0.1rem !important;
   margin-top: 1.5rem !important;
   font-family: $body-font-family;
 }
@@ -78,7 +87,7 @@ p {
   font-size: 22px;
   font-weight: bold;
   color: $primary-color;
-  margin-bottom: 3rem;
+  margin-bottom: 4rem;
 }
 
 .titulo-beneficios {
@@ -91,6 +100,7 @@ p {
   font-size: 15px !important;
   font-family: $body-font-family !important;
   margin-bottom: 1rem;
+  margin-right: 0.9rem;
 }
 
 .lista-beneficios {
@@ -177,6 +187,10 @@ p {
   font-size: 18px;
   color: #333333;
   font-family: $body-font-family;
+}
+
+#corpo-texto-maior{
+  margin-bottom: 24px;
 }
 
 .atencao {
