@@ -189,6 +189,14 @@ p {
   font-family: $body-font-family;
 }
 
+
+.corpo-texto-espaco {
+  margin-bottom: 20px;
+  font-size: 18px;
+  color: #333333;
+  font-family: $body-font-family;
+}
+
 .corpo-texto-lista {
   font-size: 18px;
   color: #333333;
@@ -205,10 +213,22 @@ p {
   text-transform: uppercase;
 }
 
+.titulo-lista-espaco {
+  font-size: 18px;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-top: 25px;
+}
+
 .subtitulo-lista {
   font-size: 18px;
   font-weight: bold;
   color: #660099;
+}
+
+.titulo-item {
+  font-size: 18px;
+  font-weight: bold;
 }
 
 #corpo-texto-maior{

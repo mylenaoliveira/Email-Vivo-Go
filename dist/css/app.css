@@ -369,6 +369,12 @@ p {
   color: #333333;
   font-family: Open Sans, Lato, Verdana, Arial, sans-serif; }
 
+.corpo-texto-espaco {
+  margin-bottom: 20px;
+  font-size: 18px;
+  color: #333333;
+  font-family: Open Sans, Lato, Verdana, Arial, sans-serif; }
+
 .corpo-texto-lista {
   font-size: 18px;
   color: #333333;
@@ -377,15 +383,20 @@ p {
 .destaque-modulos {
   color: #660099; }
 
-.titulo-lista {
+.titulo-lista-espaco {
   font-size: 18px;
   font-weight: bold;
-  text-transform: uppercase; }
+  text-transform: uppercase;
+  margin-top: 25px; }
 
 .subtitulo-lista {
   font-size: 18px;
   font-weight: bold;
   color: #660099; }
+
+.titulo-item {
+  font-size: 18px;
+  font-weight: bold; }
 
 #corpo-texto-maior {
   margin-bottom: 24px; }
@@ -581,6 +592,15 @@ table.container.inicio-modulo-caixa {
   background-repeat: no-repeat;
   background-position: top center;
   width: 100% !important;
+  height: 224px !important;
+  margin: 0 !important; }
+
+table.container.inicio-conciliacao {
+  position: relative;
+  background-image: url("https://s31.postimg.org/to60fmg9z/conciliacao-360.png");
+  background-repeat: no-repeat;
+  background-position: top center;
+  width: 200% !important;
   height: 224px !important;
   margin: 0 !important; }
 
