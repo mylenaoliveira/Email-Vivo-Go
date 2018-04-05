@@ -48,7 +48,7 @@
 
 .box-conteudo {
   border-radius: 10px !important;
-  border: 1px solid #bdbdbd !important
+  border: 1px solid #e0e0e0 !important;
 }
 
 .outros-beneficios {
@@ -76,20 +76,22 @@ table.container .cont-premium {
 }
 
 table.container .cont-premium-primeira-ligacao {
-  width: 212px;
+  width: calc(100% + 4rem);
   height: 100px;
-  //border: 3px solid #660099;
-  border-radius: 5px;
   border-collapse: separate;
-  background-color: #fff;
-  border: 2px solid #609;
+  background-color: #f5f5f5;
   margin-bottom: 2rem;
   margin-top: 1rem;
-  padding-left: 0.5rem;
+  margin-left: -2rem;
+  margin-right: -2rem;
   padding-bottom: 0.5rem;
   padding-top: 0.5rem;
 }
 
 .container-margin {
-  margin-bottom: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.container-margin-extra {
+  margin-bottom: 2em;
 }

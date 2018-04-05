@@ -3,18 +3,17 @@
   <component name="ChangeListManager">
     <list default="true" id="d694172a-cb54-4517-b9f5-0399992457f6" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/dist/boas-vindas-migracao.html" afterPath="$PROJECT_DIR$/dist/boas-vindas-migracao.html" />
+      <change beforePath="$PROJECT_DIR$/dist/analiseemaberto.html" afterPath="$PROJECT_DIR$/dist/analiseemaberto.html" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/img/cadeado.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/img/celular.svg" afterPath="" />
       <change beforePath="$PROJECT_DIR$/dist/chamado-desenvolvimento.html" afterPath="$PROJECT_DIR$/dist/chamado-desenvolvimento.html" />
       <change beforePath="$PROJECT_DIR$/dist/conciliacao.html" afterPath="$PROJECT_DIR$/dist/conciliacao.html" />
       <change beforePath="$PROJECT_DIR$/dist/css/app.css" afterPath="$PROJECT_DIR$/dist/css/app.css" />
-      <change beforePath="$PROJECT_DIR$/dist/email-vivo-go.html" afterPath="$PROJECT_DIR$/dist/email-vivo-go.html" />
-      <change beforePath="$PROJECT_DIR$/dist/email-vivo.html" afterPath="$PROJECT_DIR$/dist/email-vivo.html" />
       <change beforePath="$PROJECT_DIR$/dist/emissão-nfce.html" afterPath="$PROJECT_DIR$/dist/emissão-nfce.html" />
       <change beforePath="$PROJECT_DIR$/dist/emissão-nfe.html" afterPath="$PROJECT_DIR$/dist/emissão-nfe.html" />
       <change beforePath="$PROJECT_DIR$/dist/formulario-solicitacao.html" afterPath="$PROJECT_DIR$/dist/formulario-solicitacao.html" />
       <change beforePath="$PROJECT_DIR$/dist/gestao-documental.html" afterPath="$PROJECT_DIR$/dist/gestao-documental.html" />
       <change beforePath="$PROJECT_DIR$/dist/instalacao.html" afterPath="$PROJECT_DIR$/dist/instalacao.html" />
-      <change beforePath="$PROJECT_DIR$/dist/migracao.html" afterPath="$PROJECT_DIR$/dist/migracao.html" />
       <change beforePath="$PROJECT_DIR$/dist/modulo-caixa.html" afterPath="$PROJECT_DIR$/dist/modulo-caixa.html" />
       <change beforePath="$PROJECT_DIR$/dist/primeira-ligacao.html" afterPath="$PROJECT_DIR$/dist/primeira-ligacao.html" />
       <change beforePath="$PROJECT_DIR$/dist/reinstalacao.html" afterPath="$PROJECT_DIR$/dist/reinstalacao.html" />
@@ -22,11 +21,26 @@
       <change beforePath="$PROJECT_DIR$/dist/solicitacao-aprovada.html" afterPath="$PROJECT_DIR$/dist/solicitacao-aprovada.html" />
       <change beforePath="$PROJECT_DIR$/dist/solicitacao-publicacao.html" afterPath="$PROJECT_DIR$/dist/solicitacao-publicacao.html" />
       <change beforePath="$PROJECT_DIR$/dist/solicitacao-recusada.html" afterPath="$PROJECT_DIR$/dist/solicitacao-recusada.html" />
-      <change beforePath="$PROJECT_DIR$/dist/tabela-preco.html" afterPath="$PROJECT_DIR$/dist/tabela-preco.html" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/cadeado.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/celular.svg" afterPath="" />
       <change beforePath="$PROJECT_DIR$/src/assets/scss/components/container.scss" afterPath="$PROJECT_DIR$/src/assets/scss/components/container.scss" />
       <change beforePath="$PROJECT_DIR$/src/assets/scss/components/images.scss" afterPath="$PROJECT_DIR$/src/assets/scss/components/images.scss" />
       <change beforePath="$PROJECT_DIR$/src/assets/scss/components/text.scss" afterPath="$PROJECT_DIR$/src/assets/scss/components/text.scss" />
+      <change beforePath="$PROJECT_DIR$/src/pages/analiseemaberto.html" afterPath="$PROJECT_DIR$/src/pages/analiseemaberto.html" />
+      <change beforePath="$PROJECT_DIR$/src/pages/chamado-desenvolvimento.html" afterPath="$PROJECT_DIR$/src/pages/chamado-desenvolvimento.html" />
+      <change beforePath="$PROJECT_DIR$/src/pages/conciliacao.html" afterPath="$PROJECT_DIR$/src/pages/conciliacao.html" />
+      <change beforePath="$PROJECT_DIR$/src/pages/emissão-nfce.html" afterPath="$PROJECT_DIR$/src/pages/emissão-nfce.html" />
+      <change beforePath="$PROJECT_DIR$/src/pages/emissão-nfe.html" afterPath="$PROJECT_DIR$/src/pages/emissão-nfe.html" />
+      <change beforePath="$PROJECT_DIR$/src/pages/formulario-solicitacao.html" afterPath="$PROJECT_DIR$/src/pages/formulario-solicitacao.html" />
+      <change beforePath="$PROJECT_DIR$/src/pages/gestao-documental.html" afterPath="$PROJECT_DIR$/src/pages/gestao-documental.html" />
+      <change beforePath="$PROJECT_DIR$/src/pages/instalacao.html" afterPath="$PROJECT_DIR$/src/pages/instalacao.html" />
+      <change beforePath="$PROJECT_DIR$/src/pages/modulo-caixa.html" afterPath="$PROJECT_DIR$/src/pages/modulo-caixa.html" />
       <change beforePath="$PROJECT_DIR$/src/pages/primeira-ligacao.html" afterPath="$PROJECT_DIR$/src/pages/primeira-ligacao.html" />
+      <change beforePath="$PROJECT_DIR$/src/pages/reinstalacao.html" afterPath="$PROJECT_DIR$/src/pages/reinstalacao.html" />
+      <change beforePath="$PROJECT_DIR$/src/pages/solicitacao-aberto.html" afterPath="$PROJECT_DIR$/src/pages/solicitacao-aberto.html" />
+      <change beforePath="$PROJECT_DIR$/src/pages/solicitacao-aprovada.html" afterPath="$PROJECT_DIR$/src/pages/solicitacao-aprovada.html" />
+      <change beforePath="$PROJECT_DIR$/src/pages/solicitacao-publicacao.html" afterPath="$PROJECT_DIR$/src/pages/solicitacao-publicacao.html" />
+      <change beforePath="$PROJECT_DIR$/src/pages/solicitacao-recusada.html" afterPath="$PROJECT_DIR$/src/pages/solicitacao-recusada.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -49,8 +63,58 @@
       <file leaf-file-name="primeira-ligacao.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pages/primeira-ligacao.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="126" column="122" lean-forward="false" selection-start-line="126" selection-start-column="122" selection-end-line="126" selection-end-column="122" />
+            <state relative-caret-position="-176">
+              <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gestao-documental.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/pages/gestao-documental.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="554">
+              <caret line="77" column="113" lean-forward="false" selection-start-line="77" selection-start-column="113" selection-end-line="77" selection-end-column="113" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="emissão-nfce.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/emissão-nfce.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4">
+              <caret line="124" column="1" lean-forward="false" selection-start-line="123" selection-start-column="1" selection-end-line="124" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="modulo-caixa.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/modulo-caixa.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="237">
+              <caret line="52" column="71" lean-forward="false" selection-start-line="52" selection-start-column="50" selection-end-line="52" selection-end-column="71" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="conciliacao.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/conciliacao.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="237">
+              <caret line="184" column="66" lean-forward="false" selection-start-line="184" selection-start-column="66" selection-end-line="184" selection-end-column="66" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="container.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/assets/scss/components/container.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="237">
+              <caret line="23" column="9" lean-forward="false" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -59,8 +123,18 @@
       <file leaf-file-name="text.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/assets/scss/components/text.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="173" column="21" lean-forward="false" selection-start-line="173" selection-start-column="21" selection-end-line="173" selection-end-column="21" />
+            <state relative-caret-position="264">
+              <caret line="189" column="33" lean-forward="false" selection-start-line="189" selection-start-column="33" selection-end-line="189" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="images.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/assets/scss/components/images.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="281">
+              <caret line="152" column="16" lean-forward="false" selection-start-line="152" selection-start-column="16" selection-end-line="152" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -76,31 +150,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="images.scss" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/assets/scss/components/images.scss">
+      <file leaf-file-name="link.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/assets/scss/components/link.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="295">
-              <caret line="295" column="14" lean-forward="false" selection-start-line="295" selection-start-column="14" selection-end-line="295" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="container.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/assets/scss/components/container.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="471">
-              <caret line="80" column="30" lean-forward="false" selection-start-line="80" selection-start-column="30" selection-end-line="80" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_settings.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/assets/scss/_settings.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-277">
-              <caret line="36" column="18" lean-forward="false" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
+            <state relative-caret-position="869">
+              <caret line="77" column="32" lean-forward="false" selection-start-line="77" selection-start-column="32" selection-end-line="77" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -119,10 +173,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>butto</find>
-      <find>box-conteudo</find>
-      <find>titulo-migracao</find>
-      <find>mais</find>
       <find>mais-beneficios</find>
       <find>icone</find>
       <find>descricao-</find>
@@ -149,6 +199,10 @@
       <find>rodape-div</find>
       <find>lista</find>
       <find>aviso</find>
+      <find>box-con</find>
+      <find>detalhe</find>
+      <find>gesta</find>
+      <find>conteudo</find>
     </findStrings>
     <dirStrings>
       <dir>C:\Users\Mylena\Documents\GitHub\Email-Vivo-Go\node_modules</dir>
@@ -161,8 +215,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/pages/index.html" />
-        <option value="$PROJECT_DIR$/dist/email-vivo-go.html" />
         <option value="$PROJECT_DIR$/dist/index-2.html" />
         <option value="$PROJECT_DIR$/dist/index.html" />
         <option value="$PROJECT_DIR$/dist/email-vivo.html" />
@@ -177,21 +229,11 @@
         <option value="$PROJECT_DIR$/dist/formulario-solicitacao.html" />
         <option value="$PROJECT_DIR$/dist/solicitacao-aberto.html" />
         <option value="$PROJECT_DIR$/dist/reinstalacao.html" />
-        <option value="$PROJECT_DIR$/src/pages/instalacao.html" />
-        <option value="$PROJECT_DIR$/src/pages/reinstalacao.html" />
-        <option value="$PROJECT_DIR$/src/pages/solicitacao-aberto.html" />
         <option value="$PROJECT_DIR$/dist/emissão-nfe.html" />
         <option value="$PROJECT_DIR$/dist/emissão-nfce.html" />
         <option value="$PROJECT_DIR$/src/assets/scss/app.scss" />
-        <option value="$PROJECT_DIR$/dist/analiseemaberto.html" />
-        <option value="$PROJECT_DIR$/src/pages/analiseemaberto.html" />
-        <option value="$PROJECT_DIR$/src/pages/chamado-desenvolvimento.html" />
-        <option value="$PROJECT_DIR$/src/pages/solicitacao-aprovada.html" />
         <option value="$PROJECT_DIR$/dist/solicitacao-recusada.html" />
-        <option value="$PROJECT_DIR$/src/pages/solicitacao-recusada.html" />
-        <option value="$PROJECT_DIR$/src/pages/solicitacao-publicacao.html" />
         <option value="$PROJECT_DIR$/src/assets/scss/components/form.scss" />
-        <option value="$PROJECT_DIR$/src/pages/formulario-solicitacao.html" />
         <option value="$PROJECT_DIR$/dist/instalacao.html" />
         <option value="$PROJECT_DIR$/src/assets/scss/template/_template.scss" />
         <option value="$PROJECT_DIR$/src/pages/mescla.html" />
@@ -200,18 +242,30 @@
         <option value="$PROJECT_DIR$/gulpfile.babel.js" />
         <option value="$PROJECT_DIR$/src/assets/scss/components/link.scss" />
         <option value="$PROJECT_DIR$/src/assets/scss/components/list.scss" />
-        <option value="$PROJECT_DIR$/src/pages/gestao-documental.html" />
-        <option value="$PROJECT_DIR$/src/pages/emissão-nfe.html" />
         <option value="$PROJECT_DIR$/src/pages/tabela-preco.html" />
-        <option value="$PROJECT_DIR$/src/pages/modulo-caixa.html" />
-        <option value="$PROJECT_DIR$/src/pages/conciliacao.html" />
         <option value="$PROJECT_DIR$/src/pages/migracao.html" />
-        <option value="$PROJECT_DIR$/src/pages/boas-vindas-migracao.html" />
-        <option value="$PROJECT_DIR$/src/pages/emissão-nfce.html" />
-        <option value="$PROJECT_DIR$/src/pages/primeira-ligacao.html" />
-        <option value="$PROJECT_DIR$/src/assets/scss/components/text.scss" />
-        <option value="$PROJECT_DIR$/src/assets/scss/components/container.scss" />
         <option value="$PROJECT_DIR$/src/assets/scss/components/images.scss" />
+        <option value="$PROJECT_DIR$/src/pages/boas-vindas-migracao.html" />
+        <option value="$PROJECT_DIR$/dist/conciliacao.html" />
+        <option value="$PROJECT_DIR$/dist/chamado-desenvolvimento.html" />
+        <option value="$PROJECT_DIR$/dist/analiseemaberto.html" />
+        <option value="$PROJECT_DIR$/src/pages/analiseemaberto.html" />
+        <option value="$PROJECT_DIR$/src/pages/chamado-desenvolvimento.html" />
+        <option value="$PROJECT_DIR$/src/pages/conciliacao.html" />
+        <option value="$PROJECT_DIR$/src/pages/emissão-nfce.html" />
+        <option value="$PROJECT_DIR$/src/pages/emissão-nfe.html" />
+        <option value="$PROJECT_DIR$/src/pages/formulario-solicitacao.html" />
+        <option value="$PROJECT_DIR$/src/pages/instalacao.html" />
+        <option value="$PROJECT_DIR$/src/pages/modulo-caixa.html" />
+        <option value="$PROJECT_DIR$/src/pages/reinstalacao.html" />
+        <option value="$PROJECT_DIR$/src/pages/solicitacao-aberto.html" />
+        <option value="$PROJECT_DIR$/src/pages/solicitacao-aprovada.html" />
+        <option value="$PROJECT_DIR$/src/pages/solicitacao-publicacao.html" />
+        <option value="$PROJECT_DIR$/src/pages/solicitacao-recusada.html" />
+        <option value="$PROJECT_DIR$/src/assets/scss/components/container.scss" />
+        <option value="$PROJECT_DIR$/src/assets/scss/components/text.scss" />
+        <option value="$PROJECT_DIR$/src/pages/primeira-ligacao.html" />
+        <option value="$PROJECT_DIR$/src/pages/gestao-documental.html" />
       </list>
     </option>
   </component>
@@ -252,10 +306,10 @@
     <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2400" />
+    <option name="x" value="2864" />
     <option name="y" value="-9" />
-    <option name="width" value="2409" />
-    <option name="height" value="1372" />
+    <option name="width" value="1854" />
+    <option name="height" value="1065" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -282,25 +336,13 @@
             <path>
               <item name="Email-Vivo-Go" type="b2602c69:ProjectViewProjectNode" />
               <item name="Email-Vivo-Go" type="462c0819:PsiDirectoryNode" />
-              <item name="dist" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Email-Vivo-Go" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Email-Vivo-Go" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Email-Vivo-Go" type="b2602c69:ProjectViewProjectNode" />
               <item name="Email-Vivo-Go" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Email-Vivo-Go" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Email-Vivo-Go" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="scss" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -321,6 +363,7 @@
     <property name="js.buildTools.gulp.gulp_package_dir" value="C:\Users\Mylena\Documents\GitHub\Email-Vivo-Go\node_modules\gulp" />
     <property name="SearchEverywhereHistoryKey" value="color&#9;ACTION&#9;ChangeColorScheme&#10;colo&#9;ACTION&#9;ChangeColorScheme" />
     <property name="ToolWindowEvent Log.ShowToolbar" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -497,12 +540,12 @@
       <workItem from="1522324784298" duration="410000" />
       <workItem from="1522353356862" duration="614000" />
       <workItem from="1522872188660" duration="3879000" />
-      <workItem from="1522936224837" duration="9705000" />
+      <workItem from="1522936224837" duration="20702000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="307224000" />
+    <option name="totallyTimeSpent" value="318221000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -520,11 +563,11 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32855865" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.22668113" sideWeight="0.16822916" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32855865" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1557744" sideWeight="0.83177084" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20708562" sideWeight="0.30010605" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27484334" sideWeight="0.83177084" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20708562" sideWeight="0.30123457" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2354521" sideWeight="0.48630136" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25980598" sideWeight="0.23366159" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20708562" sideWeight="0.69989395" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20708562" sideWeight="0.69876546" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.217547" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24960339" sideWeight="0.48866856" order="1" side_tool="false" content_ui="tabs" />
@@ -572,99 +615,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/pages/solicitacao-recusada.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="27" column="64" lean-forward="true" selection-start-line="27" selection-start-column="64" selection-end-line="27" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/chamado-desenvolvimento.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="24" column="61" lean-forward="false" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/solicitacao-aprovada.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="28" column="52" lean-forward="false" selection-start-line="28" selection-start-column="52" selection-end-line="28" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/solicitacao-publicacao.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="24" column="54" lean-forward="false" selection-start-line="24" selection-start-column="54" selection-end-line="24" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist/analiseemaberto.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="67" lean-forward="true" selection-start-line="4" selection-start-column="67" selection-end-line="4" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist/chamado-desenvolvimento.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist/solicitacao-aprovada.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="8" column="55" lean-forward="false" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist/solicitacao-publicacao.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="16" column="55" lean-forward="false" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist/solicitacao-recusada.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="67" lean-forward="false" selection-start-line="4" selection-start-column="67" selection-end-line="4" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist/instalacao.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/formulario-solicitacao.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="27" column="32" lean-forward="false" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist/formulario-solicitacao.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="10" lean-forward="true" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/scss/template/_template.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="70" column="1" lean-forward="false" selection-start-line="70" selection-start-column="1" selection-end-line="70" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/mescla.html" />
-    <entry file="file://$PROJECT_DIR$/src/pages/hero.html" />
     <entry file="file://$PROJECT_DIR$/src/pages/marketing.html" />
     <entry file="file://$PROJECT_DIR$/src/pages/newsletter.html" />
     <entry file="file://$PROJECT_DIR$/src/pages/basic.html" />
@@ -701,20 +651,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/reinstalacao.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-141">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/solicitacao-aberto.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="43" column="111" lean-forward="false" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="111" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dist/boas-vindas-migracao.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1980">
@@ -723,92 +659,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dist/welcome.html" />
-    <entry file="file://$PROJECT_DIR$/src/assets/scss/components/form.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/analiseemaberto.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-720">
-          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/scss/components/link.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1694">
-          <caret line="77" column="32" lean-forward="false" selection-start-line="77" selection-start-column="32" selection-end-line="77" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/tabela-preco.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/emissão-nfe.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3058">
-          <caret line="35" column="16" lean-forward="false" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/scss/components/list.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="858">
-          <caret line="39" column="16" lean-forward="false" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dist/migracao.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
           <caret line="8" column="12" lean-forward="false" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/gestao-documental.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/conciliacao.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3678">
-          <caret line="196" column="0" lean-forward="false" selection-start-line="196" selection-start-column="0" selection-end-line="196" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/modulo-caixa.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="137" column="34" lean-forward="false" selection-start-line="97" selection-start-column="28" selection-end-line="137" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/boas-vindas-migracao.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist/primeira-ligacao.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -821,58 +675,282 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/scss/_settings.scss">
+    <entry file="file://$PROJECT_DIR$/src/pages/email-vivo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-277">
-          <caret line="36" column="18" lean-forward="false" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/tabela-preco.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/migracao.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
+        <state relative-caret-position="-2389">
           <caret line="200" column="43" lean-forward="false" selection-start-line="200" selection-start-column="43" selection-end-line="200" selection-end-column="43" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/emissão-nfce.html">
+    <entry file="file://$PROJECT_DIR$/dist/emissão-nfe.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2332">
-          <caret line="127" column="37" lean-forward="false" selection-start-line="127" selection-start-column="36" selection-end-line="127" selection-end-column="37" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/primeira-ligacao.html">
+    <entry file="file://$PROJECT_DIR$/dist/instalacao.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="126" column="122" lean-forward="false" selection-start-line="126" selection-start-column="122" selection-end-line="126" selection-end-column="122" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/primeira-ligacao.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/modulo-caixa.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/conciliacao.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="198" column="12" lean-forward="true" selection-start-line="198" selection-start-column="12" selection-end-line="198" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/chamado-desenvolvimento.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="97" column="53" lean-forward="false" selection-start-line="96" selection-start-column="27" selection-end-line="97" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/analiseemaberto.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="96" column="48" lean-forward="true" selection-start-line="94" selection-start-column="28" selection-end-line="96" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/emissão-nfce.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/formulario-solicitacao.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-990">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/boas-vindas-migracao.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="631">
+          <caret line="147" column="20" lean-forward="false" selection-start-line="147" selection-start-column="20" selection-end-line="147" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/analiseemaberto.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17">
+          <caret line="51" column="0" lean-forward="true" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/chamado-desenvolvimento.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="80" column="36" lean-forward="true" selection-start-line="77" selection-start-column="16" selection-end-line="80" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/emissão-nfe.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="196" column="36" lean-forward="false" selection-start-line="196" selection-start-column="36" selection-end-line="196" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/formulario-solicitacao.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="533">
+          <caret line="101" column="36" lean-forward="false" selection-start-line="101" selection-start-column="36" selection-end-line="101" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/instalacao.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="543">
+          <caret line="59" column="36" lean-forward="false" selection-start-line="59" selection-start-column="36" selection-end-line="59" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/reinstalacao.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="61" column="36" lean-forward="false" selection-start-line="61" selection-start-column="36" selection-end-line="61" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/solicitacao-aberto.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="61" column="36" lean-forward="false" selection-start-line="61" selection-start-column="36" selection-end-line="61" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/solicitacao-recusada.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="67" column="36" lean-forward="false" selection-start-line="67" selection-start-column="36" selection-end-line="67" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/solicitacao-aprovada.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="80" column="36" lean-forward="false" selection-start-line="80" selection-start-column="36" selection-end-line="80" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/solicitacao-publicacao.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="80" column="36" lean-forward="false" selection-start-line="80" selection-start-column="36" selection-end-line="80" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/scss/_settings.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="36" column="18" lean-forward="false" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/scss/components/link.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="869">
+          <caret line="77" column="32" lean-forward="false" selection-start-line="77" selection-start-column="32" selection-end-line="77" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/scss/components/list.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="39" column="16" lean-forward="false" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/scss/components/form.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="38" column="11" lean-forward="false" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/assets/scss/components/text.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="173" column="21" lean-forward="false" selection-start-line="173" selection-start-column="21" selection-end-line="173" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/scss/components/container.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="471">
-          <caret line="80" column="30" lean-forward="false" selection-start-line="80" selection-start-column="30" selection-end-line="80" selection-end-column="30" />
+        <state relative-caret-position="264">
+          <caret line="189" column="33" lean-forward="false" selection-start-line="189" selection-start-column="33" selection-end-line="189" selection-end-column="33" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/assets/scss/components/images.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="295" column="14" lean-forward="false" selection-start-line="295" selection-start-column="14" selection-end-line="295" selection-end-column="14" />
+        <state relative-caret-position="281">
+          <caret line="152" column="16" lean-forward="false" selection-start-line="152" selection-start-column="16" selection-end-line="152" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/conciliacao.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="184" column="66" lean-forward="false" selection-start-line="184" selection-start-column="66" selection-end-line="184" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/modulo-caixa.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="52" column="71" lean-forward="false" selection-start-line="52" selection-start-column="50" selection-end-line="52" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/primeira-ligacao.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-176">
+          <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/scss/components/container.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="23" column="9" lean-forward="false" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/emissão-nfce.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4">
+          <caret line="124" column="1" lean-forward="false" selection-start-line="123" selection-start-column="1" selection-end-line="124" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/gestao-documental.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="554">
+          <caret line="77" column="113" lean-forward="false" selection-start-line="77" selection-start-column="113" selection-end-line="77" selection-end-column="113" />
           <folding />
         </state>
       </provider>

@@ -291,21 +291,23 @@ table.container.etapa-publicacao {
   position: absolute;
   transform: translateX(2%);
 }
+
 table.container .celular {
-  width: 35%;
-  height: 83px;
+  width: 70%;
+  height: auto;
   position: relative;
-  transform: translateX(2%);
   display: block;
   float: left;
+  vertical-align: inherit !important;
 }
 
 table.container .cadeado {
-  width: 35%;
+  width: 80%;
+  height: auto;
   position: relative;
-  //transform: translateX(2%);
   display: block;
   float: right;
+  vertical-align: inherit !important;
 }
 
 table.container.icn-download {
@@ -351,7 +353,6 @@ table.container .mais-beneficios {
   border-collapse: 0!important;
   border-spacing: 0!important;
 }
-
 
 #menor {
   height: 73px;

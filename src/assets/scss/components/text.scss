@@ -139,8 +139,9 @@ p {
   font-weight: bold;
   //color: #333333;
   margin-bottom: -16px;
-  margin-left: 31px;
+  margin-left: 15rem;
   color: #333;
+  vertical-align: center;
 }
 
 .preco-premium {
@@ -155,12 +156,12 @@ p {
 
 .preco-premium-primeira-ligacao {
   font-family: $body-font-family;
-  font-size: 45px;
+  font-size: 50px;
   font-weight: bold;
   //color: $primary-color;
   color: #609;
   margin-right: 0;
-  margin-left: 31px;
+  margin-left: 15rem;
 }
 
 .preco-menor {
@@ -170,8 +171,8 @@ p {
 }
 
 .preco-menor-primeira-ligacao {
-  font-size: 22px;
-  margin-left: -13px;
+  font-size: 25px;
+  margin-left: -1rem;
   color: #609;
 }
 
@@ -191,7 +192,12 @@ p {
   font-weight: 800;
   color: #585858;
   margin-top: -16px;
-  margin-left: 87px;
+  margin-left: 17.3rem;
+}
+
+
+.space-premium {
+  margin-left: 15rem;
 }
 
 @media only screen and (max-width: #{$global-breakpoint}) {
@@ -352,16 +358,18 @@ p {
 }
 
 #texto-container-8 {
-   width: 100%;
-   color: #333333;
-   float: right;
+  width: 100%;
+  color: #333333;
+  float: right;
   margin-bottom: 1rem;
+  margin-left: 19rem;
  }
 
 #texto-container-9 {
   width: 100%;
   color: #333333;
   float: left;
+  margin-right: 19rem;
 }
 
 .titulo-status {
