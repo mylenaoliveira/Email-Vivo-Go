@@ -291,6 +291,22 @@ table.container.etapa-publicacao {
   position: absolute;
   transform: translateX(2%);
 }
+table.container .celular {
+  width: 35%;
+  height: 83px;
+  position: relative;
+  transform: translateX(2%);
+  display: block;
+  float: left;
+}
+
+table.container .cadeado {
+  width: 35%;
+  position: relative;
+  //transform: translateX(2%);
+  display: block;
+  float: right;
+}
 
 table.container.icn-download {
   color: #ffffff;

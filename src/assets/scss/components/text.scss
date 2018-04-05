@@ -107,8 +107,9 @@ p {
   color: $gray;
   font-size: 16px;
   padding: 0;
-  width: 112%;
+  width: 100%;
   margin-right: 4rem;
+  display: block;
 }
 
 #larger {
@@ -132,6 +133,16 @@ p {
   color: #b792ca;
 }
 
+.titulo-preco-premium-primeira-ligacao {
+  font-family: $body-font-family;
+  font-size: 18px;
+  font-weight: bold;
+  //color: #333333;
+  margin-bottom: -16px;
+  margin-left: 31px;
+  color: #333;
+}
+
 .preco-premium {
   font-family: $body-font-family;
   font-size: 45px;
@@ -142,10 +153,26 @@ p {
   margin-left: 31px;
 }
 
+.preco-premium-primeira-ligacao {
+  font-family: $body-font-family;
+  font-size: 45px;
+  font-weight: bold;
+  //color: $primary-color;
+  color: #609;
+  margin-right: 0;
+  margin-left: 31px;
+}
+
 .preco-menor {
   font-size: 22px;
   margin-left: -13px;
   color: $white;
+}
+
+.preco-menor-primeira-ligacao {
+  font-size: 22px;
+  margin-left: -13px;
+  color: #609;
 }
 
 
@@ -154,6 +181,15 @@ p {
   font-size: 13px;
   font-weight: 800;
   color: #b792ca;
+  margin-top: -16px;
+  margin-left: 87px;
+}
+
+.detalhe-preco-primeira-ligacao {
+  font-family: $body-font-family;
+  font-size: 13px;
+  font-weight: 800;
+  color: #585858;
   margin-top: -16px;
   margin-left: 87px;
 }
@@ -311,6 +347,19 @@ p {
 #texto-container-7 {
   width: 100%;
   font-size: 18px;
+  color: #333333;
+  float: left;
+}
+
+#texto-container-8 {
+   width: 100%;
+   color: #333333;
+   float: right;
+  margin-bottom: 1rem;
+ }
+
+#texto-container-9 {
+  width: 100%;
   color: #333333;
   float: left;
 }
