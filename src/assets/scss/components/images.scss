@@ -346,12 +346,13 @@ table.container .icone {
 
 table.container .mais-beneficios {
   height: 8% !important;
-  position: relative;
-  display: initial;
   background-repeat: no-repeat;
-  margin: -2rem 0 3rem 15rem;
-  border-collapse: 0!important;
-  border-spacing: 0!important;
+  //margin: -2rem 0 3rem 15rem;
+  margin-bottom: 2rem;
+  position: relative;
+  /* max-width: 56%; */
+  transform: translateX(-15%);
+  width: auto;
 }
 
 #menor {

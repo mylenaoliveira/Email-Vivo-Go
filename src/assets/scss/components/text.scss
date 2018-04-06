@@ -19,6 +19,29 @@ p {
   line-height: 130%;
 }
 
+.titulo-primeira-ligacao {
+  color: #fff;
+  display: block;
+  float: left;
+  font-family: $title-font-family;
+  font-size: 2rem;
+  font-weight: 100;
+  height: auto;
+  /* left: 2rem; */
+  line-height: 120%;
+  /* margin: 0 15rem 3rem 0; */
+  /* margin-bottom: 5px; */
+  width: 60%;
+  padding: 2rem;
+  position: relative;
+  text-align: left;
+  text-decoration: none;
+  text-transform: none;
+  /* transform: translateY(18%); */
+  /* vertical-align: inherit!important; */
+}
+
+
 .titulo-migracao {
   font-size: 2rem;
   font-weight: 100;
@@ -26,9 +49,8 @@ p {
   position: relative;
   text-transform: none;
   font-family: $title-font-family;
-  //top: 2rem;
   left: 2rem;
-  margin: 0 15rem 3rem 0 !important;
+  margin: 0 15rem 3rem 0;
   transform: translateY(18%);
   line-height: 120%;
 }
@@ -46,22 +68,22 @@ p {
   font-family: $title-font-family;
 }
 
-.rodape {
-  font-size: 12px;
-  color: #777777;
-  margin: 0 !important;
-  width: 34rem;
-  font-family: $body-font-family;
-  text-decoration: none!important;
-}
-
 .rodape-boas-vindas {
   font-size: 12px;
   color: #FFF;
   margin: 0 !important;
   width: 34rem;
   font-family: $body-font-family;
-  text-decoration: none!important;
+  text-decoration: none;
+}
+
+.rodape {
+  font-size: 12px;
+  color: #777777;
+  margin: 0 !important;
+  width: 34rem;
+  font-family: $body-font-family;
+  text-decoration: none;
 }
 
 .titulo-nome {
@@ -79,15 +101,17 @@ p {
   font-weight: bold;
   margin-top: 1rem !important;
   margin-bottom: 0 !important;
-  font-family:$title-font-family;
+  font-family: $title-font-family;
 }
 
 .beneficios-plus {
-  font-family: $title-font-family;
   font-size: 22px;
-  font-weight: bold;
-  color: $primary-color;
-  margin-bottom: 4rem;
+  font-family: Lato,Verdana,Arial,sans-serif;
+  font-weight: 700;
+  line-height: 1.6;
+  margin-bottom: 2rem;
+  padding: 0;
+  text-align: left;
 }
 
 .titulo-beneficios {
@@ -113,7 +137,11 @@ p {
 }
 
 #larger {
-  margin-right: 9rem;
+  width: 100%;
+}
+
+#less {
+  width: 90%;
 }
 
 .premium {
@@ -123,14 +151,18 @@ p {
   color: $primary-color;
 }
 
+//título principal
 .titulo-preco-premium {
   font-family: $body-font-family;
   font-size: 18px;
   font-weight: bold;
   //color: #333333;
-  margin-bottom: -16px;
   margin-left: 31px;
   color: #b792ca;
+  width: 100%;
+  margin-bottom: 7px;
+  height: 18px;
+  padding-top: 0.5rem;
 }
 
 .titulo-preco-premium-primeira-ligacao {
@@ -138,20 +170,24 @@ p {
   font-size: 18px;
   font-weight: bold;
   //color: #333333;
-  margin-bottom: -16px;
-  margin-left: 15rem;
-  color: #333;
-  vertical-align: center;
+  margin-bottom: 7px;
+  color: #b792ca;
+  height: 18px;
+  padding-left: 4rem;
+  padding-top: 0.5rem;
 }
 
+//preço grande
 .preco-premium {
   font-family: $body-font-family;
   font-size: 45px;
   font-weight: bold;
   //color: $primary-color;
   color: $white;
-  margin-right: 0;
   margin-left: 31px;
+  height: 50px;
+  margin-bottom: 5px;
+  line-height: 3rem;
 }
 
 .preco-premium-primeira-ligacao {
@@ -159,42 +195,50 @@ p {
   font-size: 50px;
   font-weight: bold;
   //color: $primary-color;
-  color: #609;
-  margin-right: 0;
-  margin-left: 15rem;
+  color: $white;
+  height: 50px;
+  margin-bottom: 5px;
+  line-height: 3rem;
+  padding-left: 4rem;
+
 }
 
+//preço menor, fica ao lado do maior
 .preco-menor {
   font-size: 22px;
   margin-left: -13px;
   color: $white;
+  height: 25px;
 }
 
 .preco-menor-primeira-ligacao {
   font-size: 25px;
   margin-left: -1rem;
-  color: #609;
+  color: $white;
+  //width: 100%;
+  height: 25px;
 }
 
-
+// informação abaixo do preço
 .detalhe-preco {
   font-family: $body-font-family;
   font-size: 13px;
-  font-weight: 800;
+  font-weight: 700;
   color: #b792ca;
-  margin-top: -16px;
   margin-left: 87px;
+  padding-bottom: 0.5rem;
+  height: 13px;
 }
 
 .detalhe-preco-primeira-ligacao {
   font-family: $body-font-family;
   font-size: 13px;
-  font-weight: 800;
-  color: #585858;
-  margin-top: -16px;
-  margin-left: 17.3rem;
+  font-weight: 700;
+  color: #b792ca;
+  padding-left: 7.5rem;
+  padding-bottom: 0.75rem;
+  height: 13px;
 }
-
 
 .space-premium {
   margin-left: 15rem;
@@ -230,7 +274,6 @@ p {
   color: #333333;
   font-family: $body-font-family;
 }
-
 
 .corpo-texto-espaco {
   margin-bottom: 20px;
@@ -273,7 +316,7 @@ p {
   font-weight: bold;
 }
 
-#corpo-texto-maior{
+#corpo-texto-maior {
   margin-bottom: 24px;
 }
 
@@ -363,7 +406,7 @@ p {
   float: right;
   margin-bottom: 1rem;
   margin-left: 19rem;
- }
+}
 
 #texto-container-9 {
   width: 100%;
