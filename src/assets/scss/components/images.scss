@@ -58,6 +58,13 @@ img.logo-sun {
   border: 1px solid #bdbdbd;
 }
 
+.gif-img-center-gestao {
+  width: 34rem;
+  display: block;
+  margin: 1rem 0 1rem auto;
+  border: 1px solid #bdbdbd;
+}
+
 .img-enviar {
   width: 20rem;
   display: block;
@@ -66,10 +73,12 @@ img.logo-sun {
 
 .img-campo {
   width: 450px;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
 }
 
 table.container .relogio-funcionamento{
-  width: 25%;
+  width: 85px;
   height: auto;
   position: relative;
   display: block;
@@ -125,7 +134,7 @@ table.container.inicio-migracao {
 table.container.inicio-primeira-ligacao {
   position: relative;
   text-align: right;
-  background-image: url('https://s31.postimg.org/4d6g7hq6z/primeira-ligacao.png');
+  background-image: url('https://s33.postimg.cc/6piih4fcf/primeira-ligacao.png');
   background-repeat: no-repeat;
   background-position: top center;
   width: 100% !important;
@@ -135,7 +144,7 @@ table.container.inicio-primeira-ligacao {
 
 table.container.inicio-boas-vindas {
   position: relative;
-  background-image: url('https://s18.postimg.org/pmbbdo42x/header-boas-vindas-1.png');
+  background-image: url('https://s33.postimg.cc/96u9o5u1b/header-boas-vindas-1.png');
   background-repeat: no-repeat;
   background-position: top center;
   width: 100% !important;
@@ -145,7 +154,7 @@ table.container.inicio-boas-vindas {
 
 table.container.inicio-modulo-caixa {
   position: relative;
-  background-image: url('https://s18.postimg.org/908gbzsfd/modulo-caixa.png');
+  background-image: url('https://s33.postimg.cc/5agxs8e7j/modulo-caixa.png');
   background-repeat: no-repeat;
   background-position: top center;
   width: 100% !important;
@@ -155,7 +164,7 @@ table.container.inicio-modulo-caixa {
 
 table.container.inicio-conciliacao {
   position: relative;
-  background-image: url('https://s31.postimg.org/to60fmg9z/conciliacao-360.png');
+  background-image: url('https://s33.postimg.cc/cdot7qor3/conciliacao-360.png');
   background-repeat: no-repeat;
   background-position: top center;
   width: 100% !important;
@@ -165,7 +174,7 @@ table.container.inicio-conciliacao {
 
 table.container.inicio-gestao-documental {
   position: relative;
-  background-image: url('https://s31.postimg.org/3sm9wom8r/gestao-documental-header.png');
+  background-image: url('https://s33.postimg.cc/a94g6oxf3/gestao-documental-header.png');
   background-repeat: no-repeat;
   background-position: top center;
   width: 100% !important;
@@ -348,7 +357,7 @@ table.container .icn-atencao {
 
 //migração
 table.container .icone {
-  height: 30% !important;
+  height: 60px !important;
   //width: 100%;
   display: block;
   position: relative;
@@ -358,7 +367,7 @@ table.container .icone {
 }
 
 table.container .mais-beneficios {
-  height: 8% !important;
+  height: 50px !important;
   background-repeat: no-repeat;
   //margin: -2rem 0 3rem 15rem;
   margin-bottom: 2rem;

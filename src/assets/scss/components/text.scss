@@ -357,6 +357,9 @@ p {
   color: #333333;
   float: left;
   //margin-left: 19rem;
+  margin-bottom: 1rem;
+  margin-right: 19rem;
+  margin-left: -60px;
 }
 
 //legenda nfe
@@ -459,6 +462,14 @@ p {
 
 #solicitacao-titulo {
   left: 32%;
+}
+
+.espaco-extra-top {
+  margin-top: 1rem;
+}
+
+.espaco-extra-bottom {
+  margin-bottom: 1rem;
 }
 
 #reinstalacao {
