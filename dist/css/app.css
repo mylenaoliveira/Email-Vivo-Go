@@ -878,6 +878,9 @@ table.container .mais-beneficios {
   transform: translateX(-15%);
   width: auto; }
 
+table.container .img-conciliacao {
+  width: 95%; }
+
 .spacer {
   color: #660099; }
 
