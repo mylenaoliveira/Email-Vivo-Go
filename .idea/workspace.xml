@@ -3,27 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d694172a-cb54-4517-b9f5-0399992457f6" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/dist/analiseemaberto.html" afterPath="$PROJECT_DIR$/dist/analiseemaberto.html" />
-      <change beforePath="$PROJECT_DIR$/dist/boas-vindas-migracao.html" afterPath="$PROJECT_DIR$/dist/boas-vindas-migracao.html" />
-      <change beforePath="$PROJECT_DIR$/dist/chamado-desenvolvimento.html" afterPath="$PROJECT_DIR$/dist/chamado-desenvolvimento.html" />
-      <change beforePath="$PROJECT_DIR$/dist/conciliacao.html" afterPath="$PROJECT_DIR$/dist/conciliacao.html" />
-      <change beforePath="$PROJECT_DIR$/dist/css/app.css" afterPath="$PROJECT_DIR$/dist/css/app.css" />
-      <change beforePath="$PROJECT_DIR$/dist/email-vivo-go.html" afterPath="$PROJECT_DIR$/dist/email-vivo-go.html" />
-      <change beforePath="$PROJECT_DIR$/dist/email-vivo.html" afterPath="$PROJECT_DIR$/dist/email-vivo.html" />
-      <change beforePath="$PROJECT_DIR$/dist/emissão-nfce.html" afterPath="$PROJECT_DIR$/dist/emissão-nfce.html" />
-      <change beforePath="$PROJECT_DIR$/dist/emissão-nfe.html" afterPath="$PROJECT_DIR$/dist/emissão-nfe.html" />
-      <change beforePath="$PROJECT_DIR$/dist/formulario-solicitacao.html" afterPath="$PROJECT_DIR$/dist/formulario-solicitacao.html" />
-      <change beforePath="$PROJECT_DIR$/dist/gestao-documental.html" afterPath="$PROJECT_DIR$/dist/gestao-documental.html" />
-      <change beforePath="$PROJECT_DIR$/dist/instalacao.html" afterPath="$PROJECT_DIR$/dist/instalacao.html" />
-      <change beforePath="$PROJECT_DIR$/dist/migracao.html" afterPath="$PROJECT_DIR$/dist/migracao.html" />
-      <change beforePath="$PROJECT_DIR$/dist/modulo-caixa.html" afterPath="$PROJECT_DIR$/dist/modulo-caixa.html" />
-      <change beforePath="$PROJECT_DIR$/dist/primeira-ligacao.html" afterPath="$PROJECT_DIR$/dist/primeira-ligacao.html" />
-      <change beforePath="$PROJECT_DIR$/dist/reinstalacao.html" afterPath="$PROJECT_DIR$/dist/reinstalacao.html" />
-      <change beforePath="$PROJECT_DIR$/dist/solicitacao-aberto.html" afterPath="$PROJECT_DIR$/dist/solicitacao-aberto.html" />
-      <change beforePath="$PROJECT_DIR$/dist/solicitacao-aprovada.html" afterPath="$PROJECT_DIR$/dist/solicitacao-aprovada.html" />
-      <change beforePath="$PROJECT_DIR$/dist/solicitacao-publicacao.html" afterPath="$PROJECT_DIR$/dist/solicitacao-publicacao.html" />
-      <change beforePath="$PROJECT_DIR$/dist/solicitacao-recusada.html" afterPath="$PROJECT_DIR$/dist/solicitacao-recusada.html" />
-      <change beforePath="$PROJECT_DIR$/dist/tabela-preco.html" afterPath="$PROJECT_DIR$/dist/tabela-preco.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -53,11 +32,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="modulo-caixa.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="modulo-caixa.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pages/modulo-caixa.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="22">
               <caret line="181" column="103" lean-forward="false" selection-start-line="181" selection-start-column="103" selection-end-line="181" selection-end-column="103" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="conciliacao.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/pages/conciliacao.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="515">
+              <caret line="160" column="36" lean-forward="true" selection-start-line="160" selection-start-column="36" selection-end-line="160" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -116,7 +105,7 @@
       <file leaf-file-name="_settings.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/assets/scss/_settings.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="792">
+            <state relative-caret-position="22">
               <caret line="36" column="18" lean-forward="false" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
               <folding />
             </state>
@@ -268,7 +257,7 @@
   <component name="PackageJsonUpdateNotifier">
     <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="2878" />
     <option name="y" value="-16" />
     <option name="width" value="1938" />
@@ -316,8 +305,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -519,11 +508,13 @@
       <workItem from="1524084546632" duration="128000" />
       <workItem from="1528832186453" duration="6622000" />
       <workItem from="1528893946181" duration="596000" />
+      <workItem from="1529075105287" duration="12000" />
+      <workItem from="1529431320162" duration="1493000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="348846000" />
+    <option name="totallyTimeSpent" value="350351000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -535,17 +526,17 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="2391" y="-9" width="2418" height="1318" extended-state="7" />
+    <frame x="2391" y="-9" width="2418" height="1318" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25980598" sideWeight="0.23366159" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20708562" sideWeight="0.64816475" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20708562" sideWeight="0.6392122" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32855865" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.22668113" sideWeight="0.16822916" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32855865" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20708562" sideWeight="0.35183528" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.11817368" sideWeight="0.83177084" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20708562" sideWeight="0.36078784" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24960339" sideWeight="0.48866856" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2354521" sideWeight="0.48630136" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20729773" sideWeight="0.28450704" order="3" side_tool="true" content_ui="tabs" />
@@ -678,13 +669,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dist/conciliacao.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="198" column="12" lean-forward="true" selection-start-line="198" selection-start-column="12" selection-end-line="198" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dist/chamado-desenvolvimento.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
@@ -812,26 +796,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/scss/_settings.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="36" column="18" lean-forward="false" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/assets/scss/components/container.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/conciliacao.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4048">
-          <caret line="184" column="66" lean-forward="false" selection-start-line="184" selection-start-column="66" selection-end-line="184" selection-end-column="66" />
         </state>
       </provider>
     </entry>
@@ -906,6 +875,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
           <caret line="181" column="103" lean-forward="false" selection-start-line="181" selection-start-column="103" selection-end-line="181" selection-end-column="103" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/conciliacao.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="198" column="12" lean-forward="true" selection-start-line="198" selection-start-column="12" selection-end-line="198" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/scss/_settings.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="36" column="18" lean-forward="false" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/conciliacao.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="160" column="36" lean-forward="true" selection-start-line="160" selection-start-column="36" selection-end-line="160" selection-end-column="36" />
           <folding />
         </state>
       </provider>

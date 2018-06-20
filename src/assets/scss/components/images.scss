@@ -83,7 +83,7 @@ table.container .relogio-funcionamento{
   position: relative;
   display: block;
   float: left;
-  vertical-align: inherit !important;
+  // vertical-align: inherit !important;
 }
 
 table.container.inicio-instalacao {
@@ -320,7 +320,7 @@ table.container .celular {
   position: relative;
   display: block;
   float: left;
-  vertical-align: inherit !important;
+  // vertical-align: inherit !important;
 }
 
 table.container .cadeado {
@@ -329,7 +329,7 @@ table.container .cadeado {
   position: relative;
   display: block;
   float: right;
-  vertical-align: inherit !important;
+  // vertical-align: inherit !important;
 }
 
 table.container.icn-download {
@@ -379,4 +379,9 @@ table.container .mais-beneficios {
 
 #menor {
   height: 73px;
+}
+
+table.container .img-conciliacao {
+width: 100%;
+height: auto;
 }
