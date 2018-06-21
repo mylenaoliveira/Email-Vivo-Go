@@ -464,14 +464,6 @@ p {
   left: 32%;
 }
 
-.espaco-extra-top {
-  margin-top: 1rem;
-}
-
-.espaco-extra-bottom {
-  margin-bottom: 1rem;
-}
-
 #reinstalacao {
   left: 36%;
 }
@@ -480,4 +472,17 @@ p {
   font-family: $body-font-family;
   font-size: 16px;
   text-align: center;
+}
+
+.dados-valor-aparelho-destaque {
+  text-transform: uppercase;
+  font-weight: bold;
+  color: $primary-color;
+}
+
+.dados-valor-aparelho {
+  font-size: 18px;
+  color: #333333;
+  font-family: $body-font-family;
+  margin-left: -5rem;
 }

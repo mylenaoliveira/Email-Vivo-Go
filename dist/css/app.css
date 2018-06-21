@@ -597,11 +597,16 @@ p {
 #solicitacao {
   margin-top: 1.6rem; }
 
-.espaco-extra-top {
-  margin-top: 1rem; }
+.dados-valor-aparelho-destaque {
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #660099; }
 
-.espaco-extra-bottom {
-  margin-bottom: 1rem; }
+.dados-valor-aparelho {
+  font-size: 18px;
+  color: #333333;
+  font-family: Open Sans, Lato, Verdana, Arial, sans-serif;
+  margin-left: -5rem; }
 
 img {
   outline: none;
@@ -742,6 +747,15 @@ table.container.inicio-gestao-documental {
   height: 224px !important;
   margin: 0 !important; }
 
+table.container.inicio-valor-aparelho {
+  position: relative;
+  background-image: url("https://s33.postimg.cc/dsqdwrv2n/valor-aparelho.png");
+  background-repeat: no-repeat;
+  background-position: top center;
+  width: 100% !important;
+  height: 224px !important;
+  margin: 0 !important; }
+
 table.container.solicitacao-aberto {
   position: relative;
   text-align: right;
@@ -854,6 +868,12 @@ table.container .mais-beneficios {
 table.container .img-conciliacao {
   width: 95%; }
 
+table.container .valor-aparelho {
+  width: 40%;
+  position: relative;
+  display: block;
+  float: left; }
+
 .spacer {
   color: #660099; }
 
@@ -929,6 +949,12 @@ table.container .cont-premium-center {
 
 .container-margin-extra {
   margin-bottom: 2em; }
+
+.espaco-extra-top {
+  margin-top: 1rem; }
+
+.espaco-extra-bottom {
+  margin-bottom: 1rem; }
 
 a {
   color: #2199e8;
