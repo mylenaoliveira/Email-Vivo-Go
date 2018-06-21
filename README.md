@@ -1,1 +1,1 @@
-# Templates de e-mail do Vivo GO - Canal ExclusivO. Todos os direitos reservados.
+# Templates de e-mail do Vivo GO - Canal Exclusivo. Todos os direitos reservados.
