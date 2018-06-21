@@ -435,9 +435,6 @@ p {
   padding-bottom: 0.75rem;
   height: 13px; }
 
-.link-atendimento {
-  margin-top: 0.9rem; }
-
 .final {
   font-size: 16px;
   margin-top: 0.9rem;
@@ -512,13 +509,11 @@ p {
   color: #333333;
   font-family: Lato, Verdana, Arial, sans-serif; }
 
-.horario-funcionamento {
-  font-weight: bold;
+.horario-atendimento {
   font-size: 18px;
   width: 100%;
   color: #333333;
   float: left;
-  margin-bottom: 1rem;
   margin-right: 19rem;
   margin-left: -60px; }
 
@@ -951,10 +946,10 @@ table.container .cont-premium-center {
   margin-bottom: 2em; }
 
 .espaco-extra-top {
-  margin-top: 1rem; }
+  margin-top: 1rem !important; }
 
 .espaco-extra-bottom {
-  margin-bottom: 1rem; }
+  margin-bottom: 1rem !important; }
 
 a {
   color: #2199e8;
@@ -987,10 +982,14 @@ a.acesso-manual {
 
 a.atendimento {
   cursor: pointer;
-  font-size: 20px;
+  font-size: 18x;
   font-weight: 400;
   color: #3871E0;
   margin-bottom: 1.5rem !important; }
+
+.link-atendimento {
+  margin-top: 0.9rem;
+  margin-bottom: 0; }
 
 .inline-list {
   margin-top: 0;

@@ -62,7 +62,6 @@
 table.container .cont-premium {
   width: 212px;
   height: 100px;
-  //border: 3px solid #660099;
   border-radius: 5px;
   border-collapse: separate;
   background-color: #660099;
@@ -78,12 +77,10 @@ table.container .cont-premium {
 table.container .cont-premium-center {
   width: 45%;
   height: 100px;
-  //border: 3px solid #660099;
   border-radius: 5px;
   background-color: #660099;
   vertical-align: center;
   margin-top: 1rem;
-  //margin-left: 8rem;
   margin-bottom: 2rem;
   padding-left: 7rem;
   padding-right: 7rem;
@@ -116,13 +113,21 @@ table.container .cont-premium-primeira-ligacao {
 }
 
 .espaco-extra-top {
-  margin-top: 1rem;
+  margin-top: 1rem !important;
 }
 
 .espaco-extra-bottom {
-  margin-bottom: 1rem;
+  margin-bottom: 1rem !important;
 }
 
 .espaco-less-left {
-  margin-left: -10rem;
+  margin-left: -10rem !important;
+}
+
+.espaco-neutro-bottom {
+  margin-bottom: 0 !important;
+}
+
+#espaco-neutro {
+  margin-bottom: 0 !important;
 }

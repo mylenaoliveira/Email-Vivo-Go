@@ -4,18 +4,6 @@ a {
   text-decoration: none;
 }
 
-//a:hover {
-//  color: #2199e8;
-//}
-//
-//a:active {
-//  color: #2199e8;
-//}
-//
-//a:visited {
-//  color: #2199e8;
-//}
-
 a img {
   border: none;
 }
@@ -81,16 +69,6 @@ a.acesso-troca-plano {
   margin-left: 10.5rem !important;
 }
 
-//a.troca-plano {
-//  background: #660099;
-//  font-weight: bold;
-//  color: $white;
-//  padding: 0.6rem 1.2rem 0.6rem 1.2rem;
-//  border-radius: 6px !important;
-//  text-transform: uppercase;
-//  margin-left: 9rem !important;
-//}
-
 a.troca-plano-flat {
   background: transparent;
   font-weight: bold;
@@ -104,8 +82,16 @@ a.troca-plano-flat {
 
 a.atendimento {
   cursor: pointer;
-  font-size: 20px;
+  font-size: 18x;
   font-weight: 400;
   color: #3871E0;
   margin-bottom: 1.5rem !important;
+  a.atendimento:hover {
+    color: #3871E0;
+  }
+}
+
+.link-atendimento {
+  margin-top: 0.9rem;
+  margin-bottom: 0;
 }

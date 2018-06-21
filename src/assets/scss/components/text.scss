@@ -252,10 +252,6 @@ p {
   }
 }
 
-.link-atendimento {
-  margin-top: 0.9rem;
-}
-
 .final {
   font-size: 16px;
   margin-top: 0.9rem;
@@ -350,14 +346,13 @@ p {
   font-family: $title-font-family;
 }
 
-.horario-funcionamento{
-  font-weight: bold;
+.horario-atendimento {
+  // font-weight: bold;
   font-size: 18px;
   width: 100%;
   color: #333333;
   float: left;
   //margin-left: 19rem;
-  margin-bottom: 1rem;
   margin-right: 19rem;
   margin-left: -60px;
 }
@@ -468,7 +463,7 @@ p {
   left: 36%;
 }
 
-.legenda-imagem {
+.legenda-imagens {
   font-family: $body-font-family;
   font-size: 16px;
   text-align: center;
