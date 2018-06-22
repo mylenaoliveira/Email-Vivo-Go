@@ -284,18 +284,13 @@ p {
   font-size: 2rem;
   font-weight: 100;
   height: auto;
-  /* left: 2rem; */
   line-height: 120%;
-  /* margin: 0 15rem 3rem 0; */
-  /* margin-bottom: 5px; */
   width: 60%;
   padding: 2rem;
   position: relative;
   text-align: left;
   text-decoration: none;
-  text-transform: none;
-  /* transform: translateY(18%); */
-  /* vertical-align: inherit!important; */ }
+  text-transform: none; }
 
 #titulo-migracao-destaque {
   font-weight: bold; }
@@ -306,7 +301,8 @@ p {
   margin: 0 !important;
   width: 34rem;
   font-family: Open Sans, Lato, Verdana, Arial, sans-serif;
-  text-decoration: none; }
+  text-decoration: none;
+  line-height: 100%; }
 
 .titulo-nome {
   font-size: 35px;
@@ -314,7 +310,7 @@ p {
   font-weight: bold;
   margin-bottom: 0.1rem !important;
   margin-top: 1.5rem !important;
-  font-family: Open Sans, Lato, Verdana, Arial, sans-serif; }
+  font-family: Lato, Verdana, Arial, sans-serif; }
 
 .titulo-plano {
   font-size: 35px;
@@ -452,7 +448,7 @@ p {
   font-family: Open Sans, Lato, Verdana, Arial, sans-serif; }
 
 .corpo-texto-espaco {
-  margin-bottom: 20px;
+  margin-bottom: 1rem;
   font-size: 18px;
   color: #333333;
   font-family: Open Sans, Lato, Verdana, Arial, sans-serif; }
@@ -461,9 +457,6 @@ p {
   font-size: 18px;
   color: #333333;
   font-family: Open Sans, Lato, Verdana, Arial, sans-serif; }
-
-.destaque-modulos {
-  color: #660099; }
 
 .titulo-lista-espaco {
   font-size: 18px;
@@ -508,14 +501,6 @@ p {
   text-transform: uppercase;
   color: #333333;
   font-family: Lato, Verdana, Arial, sans-serif; }
-
-.horario-atendimento {
-  font-size: 18px;
-  width: 100%;
-  color: #333333;
-  float: left;
-  margin-right: 19rem;
-  margin-left: -60px; }
 
 #texto-container-1 {
   width: 93%;
@@ -648,20 +633,12 @@ img.logo-vivo-go {
   margin-top: 1rem;
   margin-bottom: 1rem; }
 
-table.container .relogio-funcionamento {
-  width: 85px;
-  height: auto;
-  position: relative;
-  display: block;
-  float: left; }
-
 table.container.inicio-instalacao {
   position: relative;
   text-align: right;
   background-image: url("https://i.imgur.com/LbcqrgJ.png");
   background-repeat: no-repeat;
   background-position: top center;
-  /*background-size: auto 224px;*/
   width: 100% !important;
   height: 224px !important;
   margin: 0 !important; }
@@ -709,6 +686,15 @@ table.container.inicio-primeira-ligacao {
 table.container.inicio-boas-vindas {
   position: relative;
   background-image: url("https://s33.postimg.cc/96u9o5u1b/header-boas-vindas-1.png");
+  background-repeat: no-repeat;
+  background-position: top center;
+  width: 100% !important;
+  height: 224px !important;
+  margin: 0 !important; }
+
+table.container.inicio-boas-vindas-sistema {
+  position: relative;
+  background-image: url("https://i.imgur.com/2x4zBgL.png");
   background-repeat: no-repeat;
   background-position: top center;
   width: 100% !important;
@@ -856,7 +842,6 @@ table.container .mais-beneficios {
   background-repeat: no-repeat;
   margin-bottom: 2rem;
   position: relative;
-  /* max-width: 56%; */
   transform: translateX(-15%);
   width: auto; }
 
@@ -980,16 +965,21 @@ a.acesso-manual {
   text-transform: uppercase;
   margin-left: 9rem !important; }
 
+a.acesso-gestao {
+  background: #660099;
+  font-weight: 300;
+  color: #ffffff;
+  padding: 0.6rem 1.2rem 0.6rem 1.2rem;
+  border-radius: 6px !important;
+  text-transform: uppercase;
+  margin-left: 11rem !important; }
+
 a.atendimento {
   cursor: pointer;
   font-size: 18x;
   font-weight: 400;
   color: #3871E0;
   margin-bottom: 1.5rem !important; }
-
-.link-atendimento {
-  margin-top: 0.9rem;
-  margin-bottom: 0; }
 
 .inline-list {
   margin-top: 0;

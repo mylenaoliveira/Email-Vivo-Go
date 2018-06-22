@@ -83,7 +83,6 @@ table.container .relogio-funcionamento{
   position: relative;
   display: block;
   float: left;
-  // vertical-align: inherit !important;
 }
 
 table.container.inicio-instalacao {
@@ -92,7 +91,6 @@ table.container.inicio-instalacao {
   background-image: url('https://i.imgur.com/LbcqrgJ.png');
   background-repeat: no-repeat;
   background-position: top center;
-  /*background-size: auto 224px;*/
   width: 100% !important;
   height: 224px !important;
   margin: 0 !important;
@@ -145,6 +143,16 @@ table.container.inicio-primeira-ligacao {
 table.container.inicio-boas-vindas {
   position: relative;
   background-image: url('https://s33.postimg.cc/96u9o5u1b/header-boas-vindas-1.png');
+  background-repeat: no-repeat;
+  background-position: top center;
+  width: 100% !important;
+  height: 224px !important;
+  margin: 0 !important;
+}
+
+table.container.inicio-boas-vindas-sistema {
+  position: relative;
+  background-image: url('https://i.imgur.com/2x4zBgL.png');
   background-repeat: no-repeat;
   background-position: top center;
   width: 100% !important;
@@ -210,7 +218,6 @@ table.container.solicitacao-aberto-sun {
   background-repeat: no-repeat;
   background-position: top center;
   border-radius: 10px 10px 0 0 !important;
-  /*background-size: cover;*/
   width: 100% !important;
   height: 224px !important;
   margin: 0 !important;
@@ -320,7 +327,6 @@ table.container .celular {
   position: relative;
   display: block;
   float: left;
-  // vertical-align: inherit !important;
 }
 
 table.container .cadeado {
@@ -329,7 +335,6 @@ table.container .cadeado {
   position: relative;
   display: block;
   float: right;
-  // vertical-align: inherit !important;
 }
 
 table.container.icn-download {
@@ -358,7 +363,6 @@ table.container .icn-atencao {
 //migração
 table.container .icone {
   height: 60px !important;
-  //width: 100%;
   display: block;
   position: relative;
   margin-top: 0.5rem;
@@ -369,10 +373,8 @@ table.container .icone {
 table.container .mais-beneficios {
   height: 50px !important;
   background-repeat: no-repeat;
-  //margin: -2rem 0 3rem 15rem;
   margin-bottom: 2rem;
   position: relative;
-  /* max-width: 56%; */
   transform: translateX(-15%);
   width: auto;
 }
@@ -383,7 +385,6 @@ table.container .mais-beneficios {
 
 table.container .img-conciliacao {
 width: 95%;
-// height: auto;
 }
 
 table.container .valor-aparelho {
