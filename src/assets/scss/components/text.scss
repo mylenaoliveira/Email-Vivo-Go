@@ -74,11 +74,12 @@ p {
 .rodape {
   font-size: 12px;
   color: #777777;
-  margin: 0 !important;
+  // margin: 0 !important;
   width: 34rem;
-  font-family: $body-font-family;
+  font-family: $title-font-family;
   text-decoration: none;
-  line-height: 100%;
+  // line-height: 100%;
+  margin-bottom: 0.2rem;
 }
 
 .titulo-nome {
